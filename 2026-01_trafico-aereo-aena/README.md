@@ -4,7 +4,7 @@
 
 ## Qué es este proyecto
 
-Este repositorio reúne un caso de estudio **reproducible** a partir de estadísticas abiertas de **AENA** para analizar la actividad aérea en **Illes Balears** (Palma de Mallorca, Ibiza y Menorca) durante **2024–2025**.
+Este repositorio reúne un caso de estudio **reproducible** a partir de estadísticas abiertas de **AENA (Aeropuertos Españoles y Navegación Aérea)** para analizar la actividad aérea en **Illes Balears** (Palma de Mallorca, Ibiza y Menorca) durante **2024–2025**.
 
 La intención es doble:
 - **Entender** cómo se distribuye y evoluciona el tráfico (pasajeros, mercancías y correo) en Baleares.
@@ -94,3 +94,16 @@ Por tamaño y buenas prácticas, en el repositorio se incluyen notebooks y *look
 ### Instalación rápida
 ```bash
 pip install pandas numpy plotly openpyxl
+```
+---
+
+## Créditos y licencia
+
+**Fuente de datos:** AENA – Estadísticas de tráfico aeroportuario (datos abiertos).  
+Este proyecto utiliza ficheros descargados desde el portal oficial de AENA y, por transparencia, en cada notebook se describe cómo se procesan y qué significan sus campos.
+
+**Autoría del análisis:** Malcolm Di Pietro Cagliari (@PatronesLab).  
+Los gráficos, el código y las conclusiones son elaboración propia a partir de datos abiertos.
+
+**Licencia del repositorio:** el código y contenidos de este repositorio se publican bajo la licencia indicada en el archivo `LICENSE` del proyecto (si aún no existe, se recomienda añadir una licencia simple como MIT para el código).
+
