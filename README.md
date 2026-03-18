@@ -19,10 +19,11 @@ La estructura general es la siguiente:
 
 ```
 patrones-lab/
-├── YYYY-MM_tema-del-analisis/
+├── YYYY-MM_proyecto/
 │   ├── data/
 │   ├── notebooks/
 │   ├── visuals/
+│   ├── exports/
 │   └── README.md
 ```
 
