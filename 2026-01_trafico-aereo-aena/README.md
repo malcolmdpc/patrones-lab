@@ -8,7 +8,7 @@ Este repositorio reúne un caso de estudio **reproducible** a partir de estadís
 
 La intención es doble:
 - **Entender** cómo se distribuye y evoluciona el tráfico (pasajeros, mercancías y correo) en Baleares.
-- **Comunicarlo bien** con visualizaciones claras, pensadas para compartir (GitHub / LinkedIn).
+- **Comunicarlo** con visualizaciones claras.
 
 **Fuente oficial:** AENA – Estadísticas de tráfico aeroportuario (datos abiertos)  
 https://www.aena.es/es/estadisticas/inicio.html
@@ -32,7 +32,7 @@ Por tanto, el análisis debe entenderse como tráfico observado en los aeropuert
 
 ---
 
-## Decisiones metodológicas (para transparencia)
+## Decisiones metodológicas
 
 - **Métrica de pasajeros:** todos los cálculos se realizan con `pasajeros_totales` (no con `pasajeros`).
 - **Sin filtrados “selectivos”:** no se eliminan registros por servicio ni por tipo_tráfico (incluyendo “OTRAS CLASES DE TRÁFICO”).  
