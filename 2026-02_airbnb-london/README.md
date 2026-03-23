@@ -1,4 +1,4 @@
-# Airbnb en Londres con datos abiertos de Inside Airbnb (snapshot 2025-09-14)
+# Airbnb en Londres con datos abiertos de Inside Airbnb (2025-SEPT)
 
 > Proyecto desarrollado dentro de **@PatronesLab** — análisis de datos abiertos con foco en entender patrones reales y comunicarlos de forma clara.
 
