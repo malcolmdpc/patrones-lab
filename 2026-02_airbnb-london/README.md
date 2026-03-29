@@ -1,3 +1,6 @@
+
+[<img width="5400" height="1350" alt="Diseño sin título (2)" src="https://github.com/user-attachments/assets/926fd9cf-3f53-44e2-8eb6-1bb25d7d6e6b" />](https://www.instagram.com/patroneslab)
+
 # Airbnb en Londres con datos abiertos de Inside Airbnb (2025-SEPT)
 
 > Proyecto desarrollado dentro de **@PatronesLab** — análisis de datos abiertos con foco en entender patrones reales y comunicarlos de forma clara.
