@@ -49,30 +49,13 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
 
 ## Qué encontrarás en este repositorio
 
-Cada carpeta corresponde a un caso independiente y suele incluir:
+Cada carpeta corresponde a un caso independiente e incluye:
 
 - datos crudos, procesados y/o agregados
 - notebooks con análisis reproducible
 - visualizaciones estáticas e interactivas
 - documentación breve del caso
 - archivos auxiliares de exportación o publicación
-
----
-
-## Estructura general
-
-```text
-patrones-lab/
-├── YYYY-MM_proyecto/
-│   ├── notebooks/
-│   ├── visuals/
-│   ├── exports/
-│   ├── README.md
-│   └── data/
-│       ├── raw/
-│       ├── staging/
-│       └── processed/
-```
 
 ---
 
