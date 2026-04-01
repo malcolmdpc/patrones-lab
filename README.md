@@ -47,7 +47,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="./2026-01_trafico-aereo-aena/">
+      <a href="./2026-02_airbnb-london/">
         <img src="https://github.com/user-attachments/assets/691b7e83-22ca-45f9-ae99-df0e144b5bcc" alt="Proyecto Vuelos en Islas Baleares">
       </a>
       <br><br>
