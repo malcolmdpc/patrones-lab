@@ -44,6 +44,40 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="./2026-01_trafico-aereo-aena/">
+        <img src="https://github.com/user-attachments/assets/691b7e83-22ca-45f9-ae99-df0e144b5bcc" alt="Proyecto Vuelos en Islas Baleares">
+      </a>
+      <br><br>
+      <strong>Modelo ML · Airbnb London</strong><br>
+      <strong>Estado:</strong> ✅ publicado<br><br>
+      Clasificación supervisada de anuncios relativamente caros o baratos dentro de cada tipo de alojamiento.<br><br>
+      <a href="./2026-02_airbnb-london/">Entrar al proyecto</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/malcolmdpc/patrones-lab">
+        <img src="https://github.com/user-attachments/assets/41177833-277b-4ad8-8f67-7cc4002bf448" alt="Próximamente">
+      </a>
+      <br><br>
+      <strong>Contenido en preparación</strong><br>
+      <strong>Estado:</strong> ---<br><br>
+                    <br><br>
+      <span>Próximamente</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/malcolmdpc/patrones-lab">
+        <img src="https://github.com/user-attachments/assets/41177833-277b-4ad8-8f67-7cc4002bf448" alt="Próximamente">
+      </a>
+      <br><br>
+      <strong>Contenido en preparación</strong><br>
+      <strong>Estado:</strong> ---<br><br>
+                    <br><br>
+      <span>Próximamente</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
