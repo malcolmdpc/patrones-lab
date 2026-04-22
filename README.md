@@ -19,7 +19,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       <br><br>
       <strong>2026-01 · Vuelos en las Islas Baleares</strong><br>
       <strong>Estado:</strong> ✅ publicado<br><br>
-      Análisis de tráfico aéreo en España a partir de datos operacionales de AENA, con foco en volúmenes, patrones por aeropuerto y diferencias entre categorías reportadas.<br><br>
+      Análisis de tráfico aéreo en España con datos públicos de AENA, con foco en volúmenes, patrones por aeropuerto y diferencias entre categorías.<br><br>
       <a href="./2026-01_trafico-aereo-aena/">Entrar al proyecto</a>
     </td>
     <td width="33%" valign="top">
@@ -29,7 +29,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       <br><br>
       <strong>2026-02 · Alojamiento Airbnb en London</strong><br>
       <strong>Estado:</strong> ✅ publicado<br><br>
-      Estudio del mercado de Airbnb en Londres con foco en precio, disponibilidad, tipo de alojamiento, reseñas y patrones territoriales. Combina análisis exploratorio con modelado supervisado para estudiar señales asociadas al precio relativo.<br><br>
+      Análisis exploratorio del alojamiento Airbnb en Londres con foco en precio, categorías, reseñas y patrones territoriales.<br><br>
       <a href="./2026-02_airbnb-london/">Entrar al proyecto</a>
     </td>
     <td width="33%" valign="top">
@@ -39,7 +39,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       <br><br>
       <strong>2026-03 · Taxi Trip en Chicago</strong><br>
       <strong>Estado:</strong> ✅ publicado<br><br>
-      Análisis de viajes reportados de taxi en Chicago para estudiar duración, demanda, distribución espacial y patrones operativos. Proyecto actualmente en construcción.<br><br>
+      Análisis de viajes de taxi en Chicago para estudiar duración, demanda, distribución geoespacial y patrones operativos.<br><br>
       <a href="./2026-03_taxi-trip-chicago/">Entrar al proyecto</a>
     </td>
   </tr>
@@ -48,7 +48,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
   <tr>
     <td width="33%" valign="top">
       <a href="./2026-02_airbnb-london/">
-        <img src="https://github.com/user-attachments/assets/b5a907e0-923f-4054-8824-d88122284af1" alt="Proyecto Vuelos en Islas Baleares">
+        <img src="https://github.com/user-attachments/assets/b5a907e0-923f-4054-8824-d88122284af1" alt="Proyecto Airbnb en London">
       </a>
       <br><br>
       <strong>Modelo ML · Airbnb London</strong><br>
