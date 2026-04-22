@@ -38,7 +38,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       </a>
       <br><br>
       <strong>2026-03 · Taxi Trip en Chicago</strong><br>
-      <strong>Estado:</strong> ⚠️ en desarrollo<br><br>
+      <strong>Estado:</strong> ✅ publicado<br><br>
       Análisis de viajes reportados de taxi en Chicago para estudiar duración, demanda, distribución espacial y patrones operativos. Proyecto actualmente en construcción.<br><br>
       <a href="./2026-03_taxi-trip-chicago/">Entrar al proyecto</a>
     </td>
@@ -48,7 +48,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
   <tr>
     <td width="33%" valign="top">
       <a href="./2026-02_airbnb-london/">
-        <img src="https://github.com/user-attachments/assets/691b7e83-22ca-45f9-ae99-df0e144b5bcc" alt="Proyecto Vuelos en Islas Baleares">
+        <img src="https://github.com/user-attachments/assets/b5a907e0-923f-4054-8824-d88122284af1" alt="Proyecto Vuelos en Islas Baleares">
       </a>
       <br><br>
       <strong>Modelo ML · Airbnb London</strong><br>
@@ -58,11 +58,11 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
-        <img src="https://github.com/user-attachments/assets/41177833-277b-4ad8-8f67-7cc4002bf448" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/812c594a-f724-43bf-ab00-a6798653ea85" alt="Próximamente">
       </a>
       <br><br>
-      <strong>Contenido en preparación</strong><br>
-      <strong>Estado:</strong> ---<br><br>
+      <strong>Dashboard con Looker · Trip en Chicago</strong><br>
+      <strong>Estado:</strong> ⚠️ en desarrollo<br><br>
                     <br><br>
       <span>Próximamente</span>
     </td>
