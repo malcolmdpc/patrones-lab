@@ -58,7 +58,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
-        <img src="https://github.com/user-attachments/assets/b053c78a-2b28-4c0e-843f-ac92294e8ecc" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/95f703e1-cfae-4db7-9140-aff44e6b9f74" alt="Próximamente">
       </a>
       <br><br>
       <strong>Dashboard con Looker · Trip en Chicago</strong><br>
