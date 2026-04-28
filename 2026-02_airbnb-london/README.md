@@ -1,5 +1,4 @@
-
-[<img width="5400" height="1350" alt="Diseño sin título (2)" src="https://github.com/user-attachments/assets/926fd9cf-3f53-44e2-8eb6-1bb25d7d6e6b" />](https://www.instagram.com/patroneslab)
+[<img width="5400" height="1350" alt="Diseño sin título (2)" src="https://github.com/user-attachments/assets/816d8241-36ae-4241-bbeb-223bfd8fa741" />](https://www.instagram.com/patroneslab)
 
 # Airbnb en Londres con datos abiertos de Inside Airbnb (2025-SEPT)
 
