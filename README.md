@@ -57,14 +57,15 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       <a href="./2026-02_airbnb-london/">Entrar al proyecto</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/malcolmdpc/patrones-lab">
+      <a href="https://datastudio.google.com/reporting/b0b32df2-f110-4bac-8dfb-3be359d4888d">
         <img src="https://github.com/user-attachments/assets/95f703e1-cfae-4db7-9140-aff44e6b9f74" alt="Próximamente">
       </a>
       <br><br>
-      <strong>Dashboard con Looker · Trip en Chicago</strong><br>
-      <strong>Estado:</strong> ⚠️ en desarrollo<br><br>
-                    <br><br>
-      <span>Próximamente</span>
+      <strong>Dashboard Looker · Taxi Trips Chicago</strong><br>
+      <strong>Estado:</strong> ✅ publicado<br><br>
+      Dashboard interactivo desarrollado en Looker Studio para explorar viajes de taxi en Chicago, con foco en indicadores operativos, patrones horarios, recorridos pickup-dropoff y análisis geoespacial.<br><br>
+      <a href="https://datastudio.google.com/reporting/b0b32df2-f110-4bac-8dfb-3be359d4888d">Entrar al Dashboard</a><br>
+      <a href="./2026-03_taxi-trip-chicago/dashboard/">Ver documentación</a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
