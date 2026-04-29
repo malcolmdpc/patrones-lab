@@ -6,21 +6,15 @@
 
 > Proyecto desarrollado dentro de **@PatronesLab** — análisis de datos abiertos con foco en entender patrones reales y comunicarlos de forma clara.
 
-## Qué es este proyecto
+## Características del Proyecto
 
-Este repositorio reúne un caso de estudio **reproducible** a partir de datos abiertos de **City of Chicago** para analizar viajes reportados de taxi en **Chicago** entre **enero de 2024 y marzo de 2026**.
-
-El proyecto trabaja con aproximadamente **12,5 millones de registros** y combina análisis temporal, económico, operativo y geoespacial de la red urbana de viajes.
-
-La intención es doble:
-- **Entender** cómo se distribuyen los viajes según volumen, duración, distancia, tarifa, costo final, velocidad, horario, compañía y zona.
-- **Comunicarlo** con visualizaciones claras.
+Aquí se trabaja con aproximadamente **12,5 millones de registros** a partir de datos abiertos de **City of Chicago** para analizar viajes reportados de taxi en **Chicago** entre **enero de 2024 y marzo de 2026**. Se combina análisis temporal, económico, operativo y geoespacial de la red urbana de viajes.
 
 **Fuente principal:** City of Chicago Data Portal – Taxi Trips (2024-) --> https://data.cityofchicago.org/Transportation/Taxi-Trips-2024-/ajtu-isnz
 
 ---
 
-## Cómo leer los resultados
+## Diccionario de datos
 
 Para evitar interpretaciones erróneas, este proyecto toma como unidad de análisis **cada viaje reportado** en la base pública, no la totalidad real de los viajes de taxi ocurridos en Chicago.
 
@@ -37,17 +31,16 @@ Para evitar interpretaciones erróneas, este proyecto toma como unidad de análi
 
 En los análisis descriptivos se priorizan **medianas y percentiles**, porque duración, distancia, tarifa, costo total, velocidad y ratios derivados presentan asimetría, dispersión y cola larga.
 
-### Limitación clave de estos datos
+### Limitación de datos
 
 Este dataset representa viajes **reportados** a City of Chicago.  
-Por tanto, el análisis debe leerse como una aproximación a la movilidad registrada en la base pública, no como una medición completa de todos los viajes reales de taxi realizados en la ciudad.
+Por tanto, el análisis debe leerse como una aproximación a la movilidad registrada en la base pública, no como una medición completa.
 
 Además:
 - Algunas coordenadas se encuentran agregadas o protegidas por criterios de privacidad.
 - Las zonas geográficas se analizan a nivel de *community area*, no a nivel de dirección exacta.
 - Los viajes con valores extremos o inconsistentes se filtran para construir una base analítica estable.
-- Las métricas de velocidad son derivadas y dependen de la consistencia conjunta entre duración y distancia.
-- Las visualizaciones geoespaciales resumen patrones agregados y no trayectorias exactas puerta a puerta.
+- Las métricas de velocidad son derivadas y dependen de la consistencia entre duración y distancia.
 
 ---
 
@@ -81,7 +74,7 @@ Además:
 
 ---
 
-## Qué contiene el repo
+## Contenido
 
 ### Notebooks principales
 
@@ -133,15 +126,11 @@ Las visualizaciones se organizan en dos carpetas principales:
 - **`visuals/maps/`**  
   Mapas de concentración, mapas por zona, balances espaciales y visualizaciones de rutas o flujos.
 
-Las visualizaciones se han construido principalmente con **Matplotlib**, **Plotly**, **GeoPandas** y librerías geoespaciales complementarias, priorizando:
-- gráficos claros y comparables
-- mapas interpretables sin sobrecarga visual
-- análisis temporal, económico y geoespacial
-- reutilización posterior para piezas visuales y comunicación pública
+Las visualizaciones se han construido principalmente con **Matplotlib**, **Plotly**, **GeoPandas**.
 
 ---
 
-## Cómo ejecutarlo
+## Ejecución
 
 ### Requisitos
 - Python 3.12 (recomendado)
