@@ -2,7 +2,7 @@
 
 **Patrones Lab** es un laboratorio de análisis de datos aplicado a fenómenos cotidianos y reales.
 
-El repositorio reúne proyectos independientes construidos a partir de datos públicos, con foco en **detectar patrones**, **describir comportamientos** y **comunicar los hallazgos** con su contexto.
+El repositorio reúne proyectos independientes construidos a partir de datos públicos, con foco en detectar patrones describir comportamientos y comunicar los hallazgos con su contexto.
 
 El objetivo es plantear preguntas, preparar datos, construir análisis reproducibles y generar resultados visuales.
 
@@ -66,6 +66,39 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       Dashboard interactivo desarrollado en Looker Studio para explorar viajes de taxi en Chicago, con foco en indicadores operativos, patrones horarios, recorridos pickup-dropoff y análisis geoespacial.<br><br>
       <a href="https://datastudio.google.com/reporting/b0b32df2-f110-4bac-8dfb-3be359d4888d">Entrar al Dashboard</a><br>
       <a href="./2026-03_taxi-trip-chicago/dashboard/">Ver documentación</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/malcolmdpc/patrones-lab">
+        <img src="https://github.com/user-attachments/assets/818b147f-67a5-47f0-9f24-d0692e8c8eae" alt="Próximamente">
+      </a>
+      <br><br>
+      <strong>Contenido en preparación</strong><br>
+      <strong>Estado:</strong> ⚠️ en desarrollo...<br><br>
+      Próximamente.<br><br>
+      <a href="https://github.com/malcolmdpc/patrones-lab">Entrar al proyecto</a>
+    </td>
+  </tr>
+</table>
+<table>
+    <td width="33%" valign="top">
+      <a href="https://github.com/malcolmdpc/patrones-lab">
+        <img src="https://github.com/user-attachments/assets/b3a235db-5e41-4a3f-abe4-dfb9a98915a5" alt="Próximamente">
+      </a>
+      <br><br>
+      <strong>Contenido en preparación</strong><br>
+      <strong>Estado:</strong> ⚠️ en desarrollo...<br><br>
+      Próximamente.<br><br>
+      <a href="https://github.com/malcolmdpc/patrones-lab">Entrar al proyecto</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/malcolmdpc/patrones-lab">
+        <img src="https://github.com/user-attachments/assets/41177833-277b-4ad8-8f67-7cc4002bf448" alt="Próximamente">
+      </a>
+      <br><br>
+      <strong>Contenido en preparación</strong><br>
+      <strong>Estado:</strong> ---<br><br>
+                    <br><br>
+      <span>Próximamente</span>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
