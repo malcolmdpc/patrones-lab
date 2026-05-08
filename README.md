@@ -82,7 +82,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
 <table>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-04_futbol-statsbomb">
-        <img src="https://github.com/user-attachments/assets/b3a235db-5e41-4a3f-abe4-dfb9a98915a5" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/627d08a0-9609-41bc-be8a-c270051e6570" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
