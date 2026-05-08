@@ -81,14 +81,14 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
 </table>
 <table>
     <td width="33%" valign="top">
-      <a href="https://github.com/malcolmdpc/patrones-lab">
+      <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-04_futbol-statsbomb">
         <img src="https://github.com/user-attachments/assets/b3a235db-5e41-4a3f-abe4-dfb9a98915a5" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
       <strong>Estado:</strong> ⚠️ en desarrollo...<br><br>
-      Próximamente.<br><br>
-      <a href="https://github.com/malcolmdpc/patrones-lab">Entrar al proyecto</a>
+      • Modelo Probabilístico: Peligro Esperado 'xT' (Próximamente)<br><br>
+      <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-04_futbol-statsbomb">Entrar al proyecto</a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
@@ -98,7 +98,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
       <strong>Contenido en preparación</strong><br>
       <strong>Estado:</strong> ---<br><br>
                     <br><br>
-      <span>Próximamente</span>
+      <span>Próximamente.</span>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
