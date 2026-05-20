@@ -92,7 +92,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
-        <img src="https://github.com/user-attachments/assets/41177833-277b-4ad8-8f67-7cc4002bf448" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/e30b2a50-8004-4a99-a5c2-c3046bad889c" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
@@ -102,7 +102,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
-        <img src="https://github.com/user-attachments/assets/41177833-277b-4ad8-8f67-7cc4002bf448" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/3691c5a8-7897-4edc-ad99-0144d72cec7e" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
