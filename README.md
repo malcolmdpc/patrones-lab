@@ -4,7 +4,7 @@
 
 El repositorio reúne proyectos independientes construidos a partir de datos públicos, con foco en detectar patrones describir comportamientos y comunicar los hallazgos con su contexto.
 
-El objetivo es plantear preguntas, preparar datos, construir análisis reproducibles y generar resultados visuales.
+El objetivo es plantear preguntas, preparar datos, construir análisis y generar resultados visuales.
 
 ---
 
@@ -14,7 +14,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
   <tr>
     <td width="33%" valign="top">
       <a href="./2026-01_trafico-aereo-aena/">
-        <img src="https://github.com/user-attachments/assets/632158bd-ec44-454c-b797-4b6e67d47672" alt="Proyecto Vuelos en Islas Baleares">
+        <img src="https://github.com/user-attachments/assets/c691ac25-4dc4-499b-863b-cb6ff68f95e4" alt="Proyecto Vuelos en Islas Baleares">
       </a>
       <br><br>
       <strong>2026-01 · Vuelos en las Islas Baleares</strong><br>
@@ -24,7 +24,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="./2026-02_airbnb-london/">
-        <img src="https://github.com/user-attachments/assets/1e366e5e-6271-4135-9203-6c4862f7a953" alt="Proyecto Airbnb en London">
+        <img src="https://github.com/user-attachments/assets/38bbe1ea-b68b-4db5-ac00-a73c05b9671c" alt="Proyecto Airbnb en London">
       </a>
       <br><br>
       <strong>2026-02 · Alojamiento Airbnb en London</strong><br>
@@ -34,7 +34,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="./2026-03_taxi-trip-chicago/">
-        <img src="https://github.com/user-attachments/assets/b8b13d5e-4b4a-4fe4-9f9d-c164ea37ccb9" alt="Proyecto Taxi Trip en Chicago">
+        <img src="https://github.com/user-attachments/assets/c6ab82fe-79e7-442c-8373-6499924f25f9" alt="Proyecto Taxi Trip en Chicago">
       </a>
       <br><br>
       <strong>2026-03 · Taxi Trip en Chicago</strong><br>
@@ -48,7 +48,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
   <tr>
     <td width="33%" valign="top">
       <a href="./2026-02_airbnb-london/">
-        <img src="https://github.com/user-attachments/assets/b5a907e0-923f-4054-8824-d88122284af1" alt="Proyecto Airbnb en London">
+        <img src="https://github.com/user-attachments/assets/89acd1f3-a7c1-46ad-a996-50778a235a32" alt="Proyecto Airbnb en London">
       </a>
       <br><br>
       <strong>Modelo ML · Airbnb London</strong><br>
@@ -58,7 +58,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://datastudio.google.com/reporting/b0b32df2-f110-4bac-8dfb-3be359d4888d">
-        <img src="https://github.com/user-attachments/assets/95f703e1-cfae-4db7-9140-aff44e6b9f74" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/c85a8ef9-deac-4f05-9c84-39a6bfe2d9a9" alt="Dashboard Taxi Trips">
       </a>
       <br><br>
       <strong>Dashboard Looker · Taxi Trips Chicago</strong><br>
@@ -82,7 +82,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
 <table>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-04_futbol-statsbomb">
-        <img src="https://github.com/user-attachments/assets/627d08a0-9609-41bc-be8a-c270051e6570" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/101898af-2cae-4f87-8095-62e79e0b60d9" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
@@ -92,7 +92,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
-        <img src="https://github.com/user-attachments/assets/e30b2a50-8004-4a99-a5c2-c3046bad889c" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/5e5f6737-b79a-49b9-b35b-07b9eb70890a" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
@@ -102,7 +102,7 @@ El objetivo es plantear preguntas, preparar datos, construir análisis reproduci
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/malcolmdpc/patrones-lab">
-        <img src="https://github.com/user-attachments/assets/3691c5a8-7897-4edc-ad99-0144d72cec7e" alt="Próximamente">
+        <img src="https://github.com/user-attachments/assets/8762556a-7858-4bc0-ab2a-d3f5feebf5ab" alt="Próximamente">
       </a>
       <br><br>
       <strong>Contenido en preparación</strong><br>
