@@ -1,1 +1,2 @@
-<img width="216" height="270" alt="Logistica" src="https://github.com/user-attachments/assets/10f7040e-67e0-46ad-925c-41a1c80dac16" />
+<img width="108" height="135" alt="Logistica" src="https://github.com/user-attachments/assets/e7bbceea-ca21-4833-a243-145ae2859a08" />
+
