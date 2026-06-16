@@ -14,10 +14,11 @@ El objetivo es plantear preguntas, preparar datos, construir análisis y generar
   <tr>
     <td width="25%" valign="top">
       <a href="./2026-01_trafico-aereo-aena/">
-        <img width="100%" height="100%" src="https://github.com/user-attachments/assets/c691ac25-4dc4-499b-863b-cb6ff68f95e4" alt="Análisis de Vuelos en las Islas Baleares"></a>
+        <img width="100%" height="100%" src="https://github.com/user-attachments/assets/c691ac25-4dc4-499b-863b-cb6ff68f95e4" alt="Análisis de Vuelos en las Islas Baleares">
+      </a>
       <br><br>
       <strong>01 · Análisis de Vuelos en las Islas Baleares</strong><br><br>
-      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: ✅ publicado">
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: ✅ publicado"><br>
       <img src="https://img.shields.io/badge/Datos-2024%20y%202025-E9D5FF?style=flat-square" alt="Fecha de datos: 2024 y 2025"><br><br>
       Análisis de tráfico aéreo en España con datos públicos de AENA, con foco en volúmenes, patrones por aeropuerto y diferencias entre categorías.<br><br>
       <kbd>Python</kbd> <kbd>Data Storytelling</kbd> <kbd>Aviación</kbd> <kbd>Análisis de datos</kbd>
@@ -182,6 +183,45 @@ El objetivo es plantear preguntas, preparar datos, construir análisis y generar
       <a href="https://www.linkedin.com/pulse/taxi-trips-chicago-an%C3%A1lisis-geoespacial-qu%C3%A9-muestran-malcolm-cjjae">Leer en LinkedIn</a>
     </td>
   </tr>
+<tr>
+  <td width="25%" valign="top">
+    <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-05_spotify-charts-powerbi">
+      <img width="100%" height="100%" src="https://github.com/user-attachments/assets/e7bbceea-ca21-4833-a243-145ae2859a08" alt="Dashboard en Power BI · Spotify Charts">
+    </a>
+    <br><br>
+    <strong>13 · Dashboard en Power BI · Spotify Charts</strong><br><br>
+    <img src="https://img.shields.io/badge/Estado-%E2%9A%A0%EF%B8%8F%20en%20desarrollo-FDE68A?style=flat-square" alt="Estado: ⚠️ en desarrollo"><br>
+    <img src="https://img.shields.io/badge/Datos-2026-E9D5FF?style=flat-square" alt="Fecha de datos: 2026"><br><br>
+    Dashboard interactivo en Power BI para explorar reproducciones en Spotify y analizar canciones, artistas y álbumes que se encuentran en el Top 250 de cada país.<br><br>
+    <kbd>Power BI</kbd> <kbd>Spotify</kbd> <kbd>Análisis de datos</kbd> <kbd>BI</kbd>
+    <kbd>Dashboard</kbd><br><br>
+    <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-05_spotify-charts-powerbi">Ver documentación</a>
+  </td>
+  <td width="25%" valign="top">
+    <a href="https://github.com/malcolmdpc/patrones-lab">
+      <img width="100%" height="100%" src="https://github.com/user-attachments/assets/164bae9c-7ca9-47d5-8bb1-e5089758c83d" alt="Proyecto en preparación">
+    </a>
+    <br><br>
+    <strong>14 · Proyecto en preparación</strong><br><br>
+    <span>Próximamente.</span>
+  </td>
+  <td width="25%" valign="top">
+    <a href="https://github.com/malcolmdpc/patrones-lab">
+      <img width="100%" height="100%" src="https://github.com/user-attachments/assets/164bae9c-7ca9-47d5-8bb1-e5089758c83d" alt="Proyecto en preparación">
+    </a>
+    <br><br>
+    <strong>15 · Proyecto en preparación</strong><br><br>
+    <span>Próximamente.</span>
+  </td>
+  <td width="25%" valign="top">
+    <a href="https://github.com/malcolmdpc/patrones-lab">
+      <img width="100%" height="100%" src="https://github.com/user-attachments/assets/164bae9c-7ca9-47d5-8bb1-e5089758c83d" alt="Proyecto en preparación">
+    </a>
+    <br><br>
+    <strong>16 · Proyecto en preparación</strong><br><br>
+    <span>Próximamente.</span>
+  </td>
+</tr>
 </table>
 
 ---
