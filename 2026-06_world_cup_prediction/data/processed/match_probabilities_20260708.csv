@@ -1,0 +1,5 @@
+match_id,round,match_date,team_a,team_b,team_a_name,team_b_name,elo_a,elo_b,elo_diff_a_b,prob_team_a,prob_team_b,actual_winner
+QF_01,Quarterfinal,2026-07-09,france,morocco,France,Morocco,2143,1921,222,0.7820980161313187,0.21790198386868131,
+QF_02,Quarterfinal,2026-07-10,spain,belgium,Spain,Belgium,2177,1961,216,0.7761545753418307,0.22384542465816926,
+QF_03,Quarterfinal,2026-07-11,norway,england,Norway,England,1972,2076,-104,0.3546475495606176,0.6453524504393824,
+QF_04,Quarterfinal,2026-07-11,argentina,switzerland,Argentina,Switzerland,2156,1949,207,0.7670249181450214,0.23297508185497862,
