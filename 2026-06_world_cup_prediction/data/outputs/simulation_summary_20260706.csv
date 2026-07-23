@@ -1,0 +1,33 @@
+team_id,team_name,fifa_code,elo_rating,prob_round_of_16,prob_quarterfinal,prob_semifinal,prob_final,prob_champion
+france,France,FRA,2143,1.0,1.0,0.781936,0.461122,0.26765
+argentina,Argentina,ARG,2151,1.0,0.910921,0.659383,0.430471,0.238363
+spain,Spain,ESP,2159,1.0,0.697869,0.583299,0.339405,0.204613
+england,England,ENG,2076,1.0,1.0,0.646101,0.30784,0.138837
+norway,Norway,NOR,1972,1.0,1.0,0.353899,0.121012,0.038183
+colombia,Colombia,COL,2009,1.0,0.593224,0.208854,0.095632,0.034587
+portugal,Portugal,POR,2013,1.0,0.302131,0.208117,0.080816,0.032629
+morocco,Morocco,MAR,1921,1.0,1.0,0.218064,0.067496,0.019675
+switzerland,Switzerland,SUI,1943,1.0,0.406776,0.113389,0.042087,0.011927
+belgium,Belgium,BEL,1910,1.0,0.655386,0.158485,0.042771,0.011772
+united_states,United States,USA,1798,1.0,0.344614,0.050099,0.00839,0.001401
+egypt,Egypt,EGY,1747,1.0,0.089079,0.018374,0.002958,0.000363
+paraguay,Paraguay,PAR,1814,1.0,0.0,0.0,0.0,0.0
+netherlands,Netherlands,NED,1971,0.0,0.0,0.0,0.0,0.0
+japan,Japan,JPN,1888,0.0,0.0,0.0,0.0,0.0
+senegal,Senegal,SEN,1816,0.0,0.0,0.0,0.0,0.0
+south_africa,South Africa,RSA,1559,0.0,0.0,0.0,0.0,0.0
+sweden,Sweden,SWE,1731,0.0,0.0,0.0,0.0,0.0
+mexico,Mexico,MEX,1913,1.0,0.0,0.0,0.0,0.0
+algeria,Algeria,ALG,1756,0.0,0.0,0.0,0.0,0.0
+ivory_coast,Ivory Coast,CIV,1727,0.0,0.0,0.0,0.0,0.0
+ghana,Ghana,GHA,1570,0.0,0.0,0.0,0.0,0.0
+ecuador,Ecuador,ECU,1871,0.0,0.0,0.0,0.0,0.0
+dr_congo,DR Congo,COD,1704,0.0,0.0,0.0,0.0,0.0
+croatia,Croatia,CRO,1882,0.0,0.0,0.0,0.0,0.0
+cape_verde,Cape Verde,CPV,1619,0.0,0.0,0.0,0.0,0.0
+canada,Canada,CAN,1729,1.0,0.0,0.0,0.0,0.0
+brazil,Brazil,BRA,1993,1.0,0.0,0.0,0.0,0.0
+bosnia_herzegovina,Bosnia and Herzegovina,BIH,1622,0.0,0.0,0.0,0.0,0.0
+austria,Austria,AUT,1821,0.0,0.0,0.0,0.0,0.0
+australia,Australia,AUS,1795,0.0,0.0,0.0,0.0,0.0
+germany,Germany,GER,1908,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,33 @@
+team_id,team_name,fifa_code,elo_rating,prob_champion
+france,France,FRA,2134,0.244191
+argentina,Argentina,ARG,2148,0.242819
+spain,Spain,ESP,2159,0.228418
+england,England,ENG,2046,0.071052
+brazil,Brazil,BRA,2031,0.059845
+colombia,Colombia,COL,2004,0.039733
+portugal,Portugal,POR,2013,0.039359
+belgium,Belgium,BEL,1910,0.015256
+mexico,Mexico,MEX,1943,0.014965
+norway,Norway,NOR,1934,0.013144
+morocco,Morocco,MAR,1886,0.012401
+switzerland,Switzerland,SUI,1914,0.011283
+paraguay,Paraguay,PAR,1823,0.002992
+united_states,United States,USA,1798,0.001965
+canada,Canada,CAN,1764,0.001341
+australia,Australia,AUS,1800,0.00096
+egypt,Egypt,EGY,1742,0.000262
+cape_verde,Cape Verde,CPV,1622,1.2e-05
+ghana,Ghana,GHA,1575,2e-06
+senegal,Senegal,SEN,1816,0.0
+sweden,Sweden,SWE,1731,0.0
+south_africa,South Africa,RSA,1559,0.0
+algeria,Algeria,ALG,1785,0.0
+netherlands,Netherlands,NED,1971,0.0
+japan,Japan,JPN,1888,0.0
+ivory_coast,Ivory Coast,CIV,1727,0.0
+ecuador,Ecuador,ECU,1871,0.0
+dr_congo,DR Congo,COD,1704,0.0
+croatia,Croatia,CRO,1882,0.0
+bosnia_herzegovina,Bosnia and Herzegovina,BIH,1622,0.0
+austria,Austria,AUT,1821,0.0
+germany,Germany,GER,1908,0.0

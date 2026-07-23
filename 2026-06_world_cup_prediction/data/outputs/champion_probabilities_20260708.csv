@@ -1,0 +1,9 @@
+team_id,team_name,fifa_code,elo_rating,prob_champion
+spain,Spain,ESP,2177,0.289248
+argentina,Argentina,ARG,2156,0.266139
+france,France,FRA,2143,0.228081
+england,England,ENG,2076,0.122441
+norway,Norway,NOR,1972,0.032884
+belgium,Belgium,BEL,1961,0.023526
+switzerland,Switzerland,SUI,1949,0.02299
+morocco,Morocco,MAR,1921,0.014691

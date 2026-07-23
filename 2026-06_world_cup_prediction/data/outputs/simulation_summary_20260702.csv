@@ -1,0 +1,33 @@
+team_id,team_name,fifa_code,elo_rating,prob_round_of_16,prob_quarterfinal,prob_semifinal,prob_final,prob_champion
+france,France,FRA,2134,1.0,0.856482,0.715033,0.444696,0.262718
+argentina,Argentina,ARG,2148,0.953695,0.852296,0.633317,0.434386,0.25229
+spain,Spain,ESP,2144,0.854567,0.634543,0.523251,0.318368,0.193161
+england,England,ENG,2046,1.0,0.643488,0.367582,0.167553,0.074547
+brazil,Brazil,BRA,2031,1.0,0.635792,0.337132,0.147151,0.06248
+colombia,Colombia,COL,2004,0.921786,0.623206,0.234589,0.115468,0.044988
+portugal,Portugal,POR,1990,0.620004,0.218654,0.145164,0.059924,0.023653
+belgium,Belgium,BEL,1910,1.0,0.67802,0.199709,0.064442,0.019271
+mexico,Mexico,MEX,1943,1.0,0.356512,0.151768,0.049778,0.015657
+morocco,Morocco,MAR,1886,1.0,0.668976,0.167956,0.052695,0.014151
+norway,Norway,NOR,1934,1.0,0.364208,0.143518,0.04536,0.013954
+switzerland,Switzerland,SUI,1914,0.677568,0.279308,0.077718,0.028869,0.008214
+croatia,Croatia,CRO,1905,0.379996,0.098328,0.054236,0.017086,0.004951
+paraguay,Paraguay,PAR,1823,1.0,0.143518,0.067032,0.016641,0.003419
+united_states,United States,USA,1781,1.0,0.32198,0.055623,0.010999,0.001846
+canada,Canada,CAN,1764,1.0,0.331024,0.049979,0.009795,0.001547
+austria,Austria,AUT,1836,0.145433,0.048475,0.022017,0.005354,0.001224
+australia,Australia,AUS,1800,0.582499,0.085988,0.025494,0.005909,0.00105
+algeria,Algeria,ALG,1785,0.322432,0.084971,0.01482,0.003243,0.000553
+egypt,Egypt,EGY,1742,0.417501,0.048082,0.01133,0.002042,0.000312
+cape_verde,Cape Verde,CPV,1622,0.046305,0.013634,0.001855,0.00018,1.3e-05
+ghana,Ghana,GHA,1575,0.078214,0.012515,0.000877,6.1e-05,1e-06
+japan,Japan,JPN,1888,0.0,0.0,0.0,0.0,0.0
+ivory_coast,Ivory Coast,CIV,1727,0.0,0.0,0.0,0.0,0.0
+netherlands,Netherlands,NED,1971,0.0,0.0,0.0,0.0,0.0
+ecuador,Ecuador,ECU,1871,0.0,0.0,0.0,0.0,0.0
+dr_congo,DR Congo,COD,1704,0.0,0.0,0.0,0.0,0.0
+senegal,Senegal,SEN,1816,0.0,0.0,0.0,0.0,0.0
+south_africa,South Africa,RSA,1559,0.0,0.0,0.0,0.0,0.0
+sweden,Sweden,SWE,1731,0.0,0.0,0.0,0.0,0.0
+bosnia_herzegovina,Bosnia and Herzegovina,BIH,1622,0.0,0.0,0.0,0.0,0.0
+germany,Germany,GER,1908,0.0,0.0,0.0,0.0,0.0

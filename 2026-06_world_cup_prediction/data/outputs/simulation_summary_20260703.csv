@@ -1,0 +1,33 @@
+team_id,team_name,fifa_code,elo_rating,prob_round_of_16,prob_quarterfinal,prob_semifinal,prob_final,prob_champion
+france,France,FRA,2134,1.0,0.856732,0.715626,0.412649,0.244191
+argentina,Argentina,ARG,2148,0.953985,0.852963,0.629945,0.432733,0.242819
+spain,Spain,ESP,2159,1.0,0.698724,0.583519,0.365507,0.228418
+england,England,ENG,2046,1.0,0.64307,0.36659,0.167167,0.071052
+brazil,Brazil,BRA,2031,1.0,0.636689,0.338362,0.148267,0.059845
+colombia,Colombia,COL,2004,0.922074,0.578037,0.217749,0.106681,0.039733
+portugal,Portugal,POR,2013,1.0,0.301276,0.207876,0.092137,0.039359
+belgium,Belgium,BEL,1910,1.0,0.655547,0.158491,0.051043,0.015256
+mexico,Mexico,MEX,1943,1.0,0.35693,0.151386,0.049779,0.014965
+norway,Norway,NOR,1934,1.0,0.363311,0.143662,0.045162,0.013144
+morocco,Morocco,MAR,1886,1.0,0.669554,0.167198,0.04539,0.012401
+switzerland,Switzerland,SUI,1914,1.0,0.412113,0.114779,0.042359,0.011283
+paraguay,Paraguay,PAR,1823,1.0,0.143268,0.067053,0.014333,0.002992
+united_states,United States,USA,1798,1.0,0.344453,0.050114,0.010591,0.001965
+canada,Canada,CAN,1764,1.0,0.330446,0.050123,0.00835,0.001341
+australia,Australia,AUS,1800,0.583172,0.085907,0.02451,0.005712,0.00096
+egypt,Egypt,EGY,1742,0.416828,0.047546,0.010578,0.001915,0.000262
+cape_verde,Cape Verde,CPV,1622,0.046015,0.013584,0.001742,0.000171,1.2e-05
+ghana,Ghana,GHA,1575,0.077926,0.00985,0.000697,5.4e-05,2e-06
+senegal,Senegal,SEN,1816,0.0,0.0,0.0,0.0,0.0
+sweden,Sweden,SWE,1731,0.0,0.0,0.0,0.0,0.0
+south_africa,South Africa,RSA,1559,0.0,0.0,0.0,0.0,0.0
+algeria,Algeria,ALG,1785,0.0,0.0,0.0,0.0,0.0
+netherlands,Netherlands,NED,1971,0.0,0.0,0.0,0.0,0.0
+japan,Japan,JPN,1888,0.0,0.0,0.0,0.0,0.0
+ivory_coast,Ivory Coast,CIV,1727,0.0,0.0,0.0,0.0,0.0
+ecuador,Ecuador,ECU,1871,0.0,0.0,0.0,0.0,0.0
+dr_congo,DR Congo,COD,1704,0.0,0.0,0.0,0.0,0.0
+croatia,Croatia,CRO,1882,0.0,0.0,0.0,0.0,0.0
+bosnia_herzegovina,Bosnia and Herzegovina,BIH,1622,0.0,0.0,0.0,0.0,0.0
+austria,Austria,AUT,1821,0.0,0.0,0.0,0.0,0.0
+germany,Germany,GER,1908,0.0,0.0,0.0,0.0,0.0

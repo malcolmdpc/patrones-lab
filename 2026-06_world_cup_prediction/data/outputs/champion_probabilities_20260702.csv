@@ -1,0 +1,33 @@
+team_id,team_name,fifa_code,elo_rating,prob_champion
+france,France,FRA,2134,0.262718
+argentina,Argentina,ARG,2148,0.25229
+spain,Spain,ESP,2144,0.193161
+england,England,ENG,2046,0.074547
+brazil,Brazil,BRA,2031,0.06248
+colombia,Colombia,COL,2004,0.044988
+portugal,Portugal,POR,1990,0.023653
+belgium,Belgium,BEL,1910,0.019271
+mexico,Mexico,MEX,1943,0.015657
+morocco,Morocco,MAR,1886,0.014151
+norway,Norway,NOR,1934,0.013954
+switzerland,Switzerland,SUI,1914,0.008214
+croatia,Croatia,CRO,1905,0.004951
+paraguay,Paraguay,PAR,1823,0.003419
+united_states,United States,USA,1781,0.001846
+canada,Canada,CAN,1764,0.001547
+austria,Austria,AUT,1836,0.001224
+australia,Australia,AUS,1800,0.00105
+algeria,Algeria,ALG,1785,0.000553
+egypt,Egypt,EGY,1742,0.000312
+cape_verde,Cape Verde,CPV,1622,1.3e-05
+ghana,Ghana,GHA,1575,1e-06
+japan,Japan,JPN,1888,0.0
+ivory_coast,Ivory Coast,CIV,1727,0.0
+netherlands,Netherlands,NED,1971,0.0
+ecuador,Ecuador,ECU,1871,0.0
+dr_congo,DR Congo,COD,1704,0.0
+senegal,Senegal,SEN,1816,0.0
+south_africa,South Africa,RSA,1559,0.0
+sweden,Sweden,SWE,1731,0.0
+bosnia_herzegovina,Bosnia and Herzegovina,BIH,1622,0.0
+germany,Germany,GER,1908,0.0

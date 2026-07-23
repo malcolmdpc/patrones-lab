@@ -1,0 +1,3998 @@
+{
+  "trees_by_team": {
+    "france": {
+      "key": "france",
+      "team_id": "france",
+      "name": "France",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|morocco",
+          "name": "Vence a Morocco",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "morocco",
+          "count": 782682,
+          "children": [
+            {
+              "key": "Semifinal|win|spain",
+              "name": "Vence a Spain",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "spain",
+              "count": 274205,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 66610,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 66610,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 6.6610000000000005,
+                      "branch_pct": 100.0,
+                      "match_count": 66610,
+                      "match_pct": 6.6610000000000005,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 6.6610000000000005,
+                  "branch_pct": 24.29204427344505,
+                  "match_count": 204179,
+                  "match_pct": 20.4179,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 47868,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 47868,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 4.7868,
+                      "branch_pct": 100.0,
+                      "match_count": 47868,
+                      "match_pct": 4.7868,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 4.7868,
+                  "branch_pct": 17.457012089495088,
+                  "match_count": 118356,
+                  "match_pct": 11.8356,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 22773,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 22773,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 2.2773000000000003,
+                      "branch_pct": 100.0,
+                      "match_count": 22773,
+                      "match_pct": 2.2773000000000003,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 2.2773000000000003,
+                  "branch_pct": 8.305100198756405,
+                  "match_count": 46249,
+                  "match_pct": 4.6249,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 17952,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 17952,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.7952,
+                      "branch_pct": 100.0,
+                      "match_count": 17952,
+                      "match_pct": 1.7952,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.7952,
+                  "branch_pct": 6.54692656953739,
+                  "match_count": 35296,
+                  "match_pct": 3.5296000000000003,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "argentina",
+                  "count": 119002,
+                  "children": [],
+                  "opponents": {
+                    "argentina": 72167,
+                    "england": 32329,
+                    "norway": 8650,
+                    "switzerland": 5856
+                  },
+                  "prob_pct": 11.9002,
+                  "branch_pct": 43.398916868766065,
+                  "match_count": 119002,
+                  "match_pct": 11.9002,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 72167,
+                      "pct_total": 7.2166999999999994,
+                      "pct_node": 60.6435185963261
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 32329,
+                      "pct_total": 3.2329,
+                      "pct_node": 27.166770306381405
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 8650,
+                      "pct_total": 0.865,
+                      "pct_node": 7.26878539856473
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 5856,
+                      "pct_total": 0.5856,
+                      "pct_node": 4.9209256987277525
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 27.420499999999997,
+              "branch_pct": 35.03402403530425,
+              "match_count": 607337,
+              "match_pct": 60.7337,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|belgium",
+              "name": "Vence a Belgium",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "belgium",
+              "count": 129875,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 31537,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 31537,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 3.1537,
+                      "branch_pct": 100.0,
+                      "match_count": 31537,
+                      "match_pct": 3.1537,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 3.1537,
+                  "branch_pct": 24.28257940327238,
+                  "match_count": 204179,
+                  "match_pct": 20.4179,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 22796,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 22796,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 2.2796,
+                      "branch_pct": 100.0,
+                      "match_count": 22796,
+                      "match_pct": 2.2796,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 2.2796,
+                  "branch_pct": 17.552261790182868,
+                  "match_count": 118356,
+                  "match_pct": 11.8356,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 10806,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 10806,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.0806,
+                      "branch_pct": 100.0,
+                      "match_count": 10806,
+                      "match_pct": 1.0806,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.0806,
+                  "branch_pct": 8.320307988450432,
+                  "match_count": 46249,
+                  "match_pct": 4.6249,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 8638,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 8638,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.8638,
+                      "branch_pct": 100.0,
+                      "match_count": 8638,
+                      "match_pct": 0.8638,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.8638,
+                  "branch_pct": 6.651010587102983,
+                  "match_count": 35296,
+                  "match_pct": 3.5296000000000003,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "argentina",
+                  "count": 56098,
+                  "children": [],
+                  "opponents": {
+                    "argentina": 33865,
+                    "england": 15363,
+                    "norway": 4020,
+                    "switzerland": 2850
+                  },
+                  "prob_pct": 5.6098,
+                  "branch_pct": 43.193840230991334,
+                  "match_count": 56098,
+                  "match_pct": 5.6098,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 33865,
+                      "pct_total": 3.3865,
+                      "pct_node": 60.36757103640058
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 15363,
+                      "pct_total": 1.5363,
+                      "pct_node": 27.386003066062965
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 4020,
+                      "pct_total": 0.402,
+                      "pct_node": 7.166030874540982
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 2850,
+                      "pct_total": 0.28500000000000003,
+                      "pct_node": 5.080395022995472
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 12.987499999999999,
+              "branch_pct": 16.59358462312919,
+              "match_count": 175345,
+              "match_pct": 17.5345,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "spain",
+              "count": 378602,
+              "children": [],
+              "opponents": {
+                "spain": 333132,
+                "belgium": 45470
+              },
+              "prob_pct": 37.8602,
+              "branch_pct": 48.37239134156656,
+              "match_count": 378602,
+              "match_pct": 37.8602,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "spain",
+                  "opponent_name": "Spain",
+                  "count": 333132,
+                  "pct_total": 33.313199999999995,
+                  "pct_node": 87.9900264657873
+                },
+                {
+                  "opponent_id": "belgium",
+                  "opponent_name": "Belgium",
+                  "count": 45470,
+                  "pct_total": 4.547,
+                  "pct_node": 12.009973534212708
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 78.2682,
+          "branch_pct": 78.2682,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "morocco",
+          "count": 217318,
+          "children": [],
+          "opponents": {
+            "morocco": 217318
+          },
+          "prob_pct": 21.7318,
+          "branch_pct": 21.7318,
+          "match_count": 217318,
+          "match_pct": 21.7318,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "morocco",
+              "opponent_name": "Morocco",
+              "count": 217318,
+              "pct_total": 21.7318,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "morocco": {
+      "key": "morocco",
+      "team_id": "morocco",
+      "name": "Morocco",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|france",
+          "name": "Vence a France",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "france",
+          "count": 217318,
+          "children": [
+            {
+              "key": "Semifinal|win|spain",
+              "name": "Vence a Spain",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "spain",
+              "count": 31375,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 3345,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 3345,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.33449999999999996,
+                      "branch_pct": 100.0,
+                      "match_count": 3345,
+                      "match_pct": 0.33449999999999996,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.33449999999999996,
+                  "branch_pct": 10.661354581673308,
+                  "match_count": 26717,
+                  "match_pct": 2.6717,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 2762,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2762,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.2762,
+                      "branch_pct": 100.0,
+                      "match_count": 2762,
+                      "match_pct": 0.2762,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.2762,
+                  "branch_pct": 8.803187250996016,
+                  "match_count": 15553,
+                  "match_pct": 1.5553000000000001,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 1542,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1542,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1542,
+                      "branch_pct": 100.0,
+                      "match_count": 1542,
+                      "match_pct": 0.1542,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1542,
+                  "branch_pct": 4.914741035856574,
+                  "match_count": 6005,
+                  "match_pct": 0.6005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 1244,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1244,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.12440000000000001,
+                      "branch_pct": 100.0,
+                      "match_count": 1244,
+                      "match_pct": 0.12440000000000001,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.12440000000000001,
+                  "branch_pct": 3.9649402390438246,
+                  "match_count": 4577,
+                  "match_pct": 0.45770000000000005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "argentina",
+                  "count": 22482,
+                  "children": [],
+                  "opponents": {
+                    "argentina": 12488,
+                    "norway": 2041,
+                    "england": 6489,
+                    "switzerland": 1464
+                  },
+                  "prob_pct": 2.2481999999999998,
+                  "branch_pct": 71.65577689243028,
+                  "match_count": 22482,
+                  "match_pct": 2.2481999999999998,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 12488,
+                      "pct_total": 1.2488000000000001,
+                      "pct_node": 55.54665954986211
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 6489,
+                      "pct_total": 0.6489,
+                      "pct_node": 28.863090472377902
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 2041,
+                      "pct_total": 0.20409999999999998,
+                      "pct_node": 9.078373810159238
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 1464,
+                      "pct_total": 0.1464,
+                      "pct_node": 6.511876167600747
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 3.1375,
+              "branch_pct": 14.437368280584211,
+              "match_count": 168625,
+              "match_pct": 16.8625,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|belgium",
+              "name": "Vence a Belgium",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "belgium",
+              "count": 21477,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 2275,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2275,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.2275,
+                      "branch_pct": 100.0,
+                      "match_count": 2275,
+                      "match_pct": 0.2275,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.2275,
+                  "branch_pct": 10.592727103412953,
+                  "match_count": 26717,
+                  "match_pct": 2.6717,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 1818,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1818,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1818,
+                      "branch_pct": 100.0,
+                      "match_count": 1818,
+                      "match_pct": 0.1818,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1818,
+                  "branch_pct": 8.464869395166923,
+                  "match_count": 15553,
+                  "match_pct": 1.5553000000000001,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 1057,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1057,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1057,
+                      "branch_pct": 100.0,
+                      "match_count": 1057,
+                      "match_pct": 0.1057,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1057,
+                  "branch_pct": 4.921543977278018,
+                  "match_count": 6005,
+                  "match_pct": 0.6005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 898,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 898,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.0898,
+                      "branch_pct": 100.0,
+                      "match_count": 898,
+                      "match_pct": 0.0898,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.0898,
+                  "branch_pct": 4.181217115984541,
+                  "match_count": 4577,
+                  "match_pct": 0.45770000000000005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "england",
+                  "count": 15429,
+                  "children": [],
+                  "opponents": {
+                    "england": 4484,
+                    "argentina": 8609,
+                    "switzerland": 971,
+                    "norway": 1365
+                  },
+                  "prob_pct": 1.5429,
+                  "branch_pct": 71.83964240815757,
+                  "match_count": 15429,
+                  "match_pct": 1.5429,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 8609,
+                      "pct_total": 0.8609,
+                      "pct_node": 55.79752414284789
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 4484,
+                      "pct_total": 0.4484,
+                      "pct_node": 29.06215568086072
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 1365,
+                      "pct_total": 0.13649999999999998,
+                      "pct_node": 8.846976472875753
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 971,
+                      "pct_total": 0.09709999999999999,
+                      "pct_node": 6.293343703415647
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 2.1477,
+              "branch_pct": 9.882752464130904,
+              "match_count": 48693,
+              "match_pct": 4.8693,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "spain",
+              "count": 164466,
+              "children": [],
+              "opponents": {
+                "spain": 137250,
+                "belgium": 27216
+              },
+              "prob_pct": 16.4466,
+              "branch_pct": 75.67987925528489,
+              "match_count": 164466,
+              "match_pct": 16.4466,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "spain",
+                  "opponent_name": "Spain",
+                  "count": 137250,
+                  "pct_total": 13.725000000000001,
+                  "pct_node": 83.45189887271533
+                },
+                {
+                  "opponent_id": "belgium",
+                  "opponent_name": "Belgium",
+                  "count": 27216,
+                  "pct_total": 2.7216,
+                  "pct_node": 16.548101127284667
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 21.7318,
+          "branch_pct": 21.7318,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "france",
+          "count": 782682,
+          "children": [],
+          "opponents": {
+            "france": 782682
+          },
+          "prob_pct": 78.2682,
+          "branch_pct": 78.2682,
+          "match_count": 782682,
+          "match_pct": 78.2682,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "france",
+              "opponent_name": "France",
+              "count": 782682,
+              "pct_total": 78.2682,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "spain": {
+      "key": "spain",
+      "team_id": "spain",
+      "name": "Spain",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|belgium",
+          "name": "Vence a Belgium",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "belgium",
+          "count": 775962,
+          "children": [
+            {
+              "key": "Semifinal|win|france",
+              "name": "Vence a France",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "france",
+              "count": 333132,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 89062,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 89062,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 8.9062,
+                      "branch_pct": 100.0,
+                      "match_count": 89062,
+                      "match_pct": 8.9062,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 8.9062,
+                  "branch_pct": 26.73474778766375,
+                  "match_count": 237928,
+                  "match_pct": 23.7928,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 62654,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 62654,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 6.2654000000000005,
+                      "branch_pct": 100.0,
+                      "match_count": 62654,
+                      "match_pct": 6.2654000000000005,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 6.2654000000000005,
+                  "branch_pct": 18.807559766098723,
+                  "match_count": 137840,
+                  "match_pct": 13.783999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 28950,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 28950,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 2.895,
+                      "branch_pct": 100.0,
+                      "match_count": 28950,
+                      "match_pct": 2.895,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 2.895,
+                  "branch_pct": 8.690248910341847,
+                  "match_count": 53543,
+                  "match_pct": 5.3543,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 22869,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 22869,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 2.2869,
+                      "branch_pct": 100.0,
+                      "match_count": 22869,
+                      "match_pct": 2.2869,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 2.2869,
+                  "branch_pct": 6.864846367205792,
+                  "match_count": 41071,
+                  "match_pct": 4.1071,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "switzerland",
+                  "count": 129597,
+                  "children": [],
+                  "opponents": {
+                    "switzerland": 6144,
+                    "argentina": 79474,
+                    "england": 35171,
+                    "norway": 8808
+                  },
+                  "prob_pct": 12.9597,
+                  "branch_pct": 38.90259716868989,
+                  "match_count": 129597,
+                  "match_pct": 12.9597,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 79474,
+                      "pct_total": 7.9474,
+                      "pct_node": 61.323950400086424
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 35171,
+                      "pct_total": 3.5171,
+                      "pct_node": 27.138745495651907
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 8808,
+                      "pct_total": 0.8808,
+                      "pct_node": 6.796453621611612
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 6144,
+                      "pct_total": 0.6144000000000001,
+                      "pct_node": 4.740850482650061
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 33.313199999999995,
+              "branch_pct": 42.931483758225276,
+              "match_count": 607337,
+              "match_pct": 60.7337,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|morocco",
+              "name": "Vence a Morocco",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "morocco",
+              "count": 137250,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 36914,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 36914,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 3.6914000000000002,
+                      "branch_pct": 100.0,
+                      "match_count": 36914,
+                      "match_pct": 3.6914000000000002,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 3.6914000000000002,
+                  "branch_pct": 26.895446265938066,
+                  "match_count": 237928,
+                  "match_pct": 23.7928,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 25531,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 25531,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 2.5531,
+                      "branch_pct": 100.0,
+                      "match_count": 25531,
+                      "match_pct": 2.5531,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 2.5531,
+                  "branch_pct": 18.601821493624772,
+                  "match_count": 137840,
+                  "match_pct": 13.783999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 12055,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 12055,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.2055,
+                      "branch_pct": 100.0,
+                      "match_count": 12055,
+                      "match_pct": 1.2055,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.2055,
+                  "branch_pct": 8.783242258652095,
+                  "match_count": 53543,
+                  "match_pct": 5.3543,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 9548,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 9548,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.9547999999999999,
+                      "branch_pct": 100.0,
+                      "match_count": 9548,
+                      "match_pct": 0.9547999999999999,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.9547999999999999,
+                  "branch_pct": 6.956648451730418,
+                  "match_count": 41071,
+                  "match_pct": 4.1071,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "argentina",
+                  "count": 53202,
+                  "children": [],
+                  "opponents": {
+                    "argentina": 32478,
+                    "norway": 3730,
+                    "england": 14484,
+                    "switzerland": 2510
+                  },
+                  "prob_pct": 5.3202,
+                  "branch_pct": 38.762841530054644,
+                  "match_count": 53202,
+                  "match_pct": 5.3202,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 32478,
+                      "pct_total": 3.2478,
+                      "pct_node": 61.046577196346
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 14484,
+                      "pct_total": 1.4484000000000001,
+                      "pct_node": 27.224540430810872
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 3730,
+                      "pct_total": 0.373,
+                      "pct_node": 7.011014623510395
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 2510,
+                      "pct_total": 0.251,
+                      "pct_node": 4.717867749332732
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 13.725000000000001,
+              "branch_pct": 17.6877218214294,
+              "match_count": 168625,
+              "match_pct": 16.8625,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "france",
+              "count": 305580,
+              "children": [],
+              "opponents": {
+                "france": 274205,
+                "morocco": 31375
+              },
+              "prob_pct": 30.558000000000003,
+              "branch_pct": 39.380794420345325,
+              "match_count": 305580,
+              "match_pct": 30.558000000000003,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "france",
+                  "opponent_name": "France",
+                  "count": 274205,
+                  "pct_total": 27.420499999999997,
+                  "pct_node": 89.73263957065252
+                },
+                {
+                  "opponent_id": "morocco",
+                  "opponent_name": "Morocco",
+                  "count": 31375,
+                  "pct_total": 3.1375,
+                  "pct_node": 10.26736042934747
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 77.59620000000001,
+          "branch_pct": 77.59620000000001,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "belgium",
+          "count": 224038,
+          "children": [],
+          "opponents": {
+            "belgium": 224038
+          },
+          "prob_pct": 22.4038,
+          "branch_pct": 22.4038,
+          "match_count": 224038,
+          "match_pct": 22.4038,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "belgium",
+              "opponent_name": "Belgium",
+              "count": 224038,
+              "pct_total": 22.4038,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "belgium": {
+      "key": "belgium",
+      "team_id": "belgium",
+      "name": "Belgium",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|spain",
+          "name": "Vence a Spain",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "spain",
+          "count": 224038,
+          "children": [
+            {
+              "key": "Semifinal|win|france",
+              "name": "Vence a France",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "france",
+              "count": 45470,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 5565,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 5565,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.5565,
+                      "branch_pct": 100.0,
+                      "match_count": 5565,
+                      "match_pct": 0.5565,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.5565,
+                  "branch_pct": 12.238838794809764,
+                  "match_count": 36841,
+                  "match_pct": 3.6841,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 4557,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 4557,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.45570000000000005,
+                      "branch_pct": 100.0,
+                      "match_count": 4557,
+                      "match_pct": 0.45570000000000005,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.45570000000000005,
+                  "branch_pct": 10.021992522542336,
+                  "match_count": 21355,
+                  "match_pct": 2.1355,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 2444,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2444,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.2444,
+                      "branch_pct": 100.0,
+                      "match_count": 2444,
+                      "match_pct": 0.2444,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.2444,
+                  "branch_pct": 5.374972509346822,
+                  "match_count": 8141,
+                  "match_pct": 0.8141,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 2116,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2116,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.21159999999999998,
+                      "branch_pct": 100.0,
+                      "match_count": 2116,
+                      "match_pct": 0.21159999999999998,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.21159999999999998,
+                  "branch_pct": 4.653617769958214,
+                  "match_count": 6349,
+                  "match_pct": 0.6348999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "argentina",
+                  "count": 30788,
+                  "children": [],
+                  "opponents": {
+                    "argentina": 17428,
+                    "norway": 2613,
+                    "england": 8839,
+                    "switzerland": 1908
+                  },
+                  "prob_pct": 3.0787999999999998,
+                  "branch_pct": 67.71057840334286,
+                  "match_count": 30788,
+                  "match_pct": 3.0787999999999998,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 17428,
+                      "pct_total": 1.7428,
+                      "pct_node": 56.60647005326751
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 8839,
+                      "pct_total": 0.8838999999999999,
+                      "pct_node": 28.709237365207223
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 2613,
+                      "pct_total": 0.2613,
+                      "pct_node": 8.48707288553982
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 1908,
+                      "pct_total": 0.1908,
+                      "pct_node": 6.197219695985448
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 4.547,
+              "branch_pct": 20.295664128406788,
+              "match_count": 175345,
+              "match_pct": 17.5345,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|morocco",
+              "name": "Vence a Morocco",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "morocco",
+              "count": 27216,
+              "children": [
+                {
+                  "key": "Final|win|argentina",
+                  "name": "Vence a Argentina",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "argentina",
+                  "count": 3468,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 3468,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.3468,
+                      "branch_pct": 100.0,
+                      "match_count": 3468,
+                      "match_pct": 0.3468,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.3468,
+                  "branch_pct": 12.742504409171076,
+                  "match_count": 36841,
+                  "match_pct": 3.6841,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|england",
+                  "name": "Vence a England",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "england",
+                  "count": 2710,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2710,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.271,
+                      "branch_pct": 100.0,
+                      "match_count": 2710,
+                      "match_pct": 0.271,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.271,
+                  "branch_pct": 9.957378012933567,
+                  "match_count": 21355,
+                  "match_pct": 2.1355,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|norway",
+                  "name": "Vence a Norway",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "norway",
+                  "count": 1454,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1454,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1454,
+                      "branch_pct": 100.0,
+                      "match_count": 1454,
+                      "match_pct": 0.1454,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1454,
+                  "branch_pct": 5.3424456202233985,
+                  "match_count": 8141,
+                  "match_pct": 0.8141,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|switzerland",
+                  "name": "Vence a Switzerland",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "switzerland",
+                  "count": 1205,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1205,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1205,
+                      "branch_pct": 100.0,
+                      "match_count": 1205,
+                      "match_pct": 0.1205,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1205,
+                  "branch_pct": 4.427542621987066,
+                  "match_count": 6349,
+                  "match_pct": 0.6348999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "norway",
+                  "count": 18379,
+                  "children": [],
+                  "opponents": {
+                    "norway": 1630,
+                    "argentina": 10380,
+                    "england": 5249,
+                    "switzerland": 1120
+                  },
+                  "prob_pct": 1.8378999999999999,
+                  "branch_pct": 67.53012933568489,
+                  "match_count": 18379,
+                  "match_pct": 1.8378999999999999,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "argentina",
+                      "opponent_name": "Argentina",
+                      "count": 10380,
+                      "pct_total": 1.038,
+                      "pct_node": 56.47750149627292
+                    },
+                    {
+                      "opponent_id": "england",
+                      "opponent_name": "England",
+                      "count": 5249,
+                      "pct_total": 0.5249,
+                      "pct_node": 28.559769301920667
+                    },
+                    {
+                      "opponent_id": "norway",
+                      "opponent_name": "Norway",
+                      "count": 1630,
+                      "pct_total": 0.163,
+                      "pct_node": 8.868817672343434
+                    },
+                    {
+                      "opponent_id": "switzerland",
+                      "opponent_name": "Switzerland",
+                      "count": 1120,
+                      "pct_total": 0.11199999999999999,
+                      "pct_node": 6.093911529462974
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 2.7216,
+              "branch_pct": 12.1479391888876,
+              "match_count": 48693,
+              "match_pct": 4.8693,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "france",
+              "count": 151352,
+              "children": [],
+              "opponents": {
+                "france": 129875,
+                "morocco": 21477
+              },
+              "prob_pct": 15.1352,
+              "branch_pct": 67.55639668270561,
+              "match_count": 151352,
+              "match_pct": 15.1352,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "france",
+                  "opponent_name": "France",
+                  "count": 129875,
+                  "pct_total": 12.987499999999999,
+                  "pct_node": 85.80990010042814
+                },
+                {
+                  "opponent_id": "morocco",
+                  "opponent_name": "Morocco",
+                  "count": 21477,
+                  "pct_total": 2.1477,
+                  "pct_node": 14.190099899571859
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 22.4038,
+          "branch_pct": 22.4038,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "spain",
+          "count": 775962,
+          "children": [],
+          "opponents": {
+            "spain": 775962
+          },
+          "prob_pct": 77.59620000000001,
+          "branch_pct": 77.59620000000001,
+          "match_count": 775962,
+          "match_pct": 77.59620000000001,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "spain",
+              "opponent_name": "Spain",
+              "count": 775962,
+              "pct_total": 77.59620000000001,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "norway": {
+      "key": "norway",
+      "team_id": "norway",
+      "name": "Norway",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|england",
+          "name": "Vence a England",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "england",
+          "count": 354376,
+          "children": [
+            {
+              "key": "Semifinal|win|argentina",
+              "name": "Vence a Argentina",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "argentina",
+              "count": 69863,
+              "children": [
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 7852,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 7852,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.7852,
+                      "branch_pct": 100.0,
+                      "match_count": 7852,
+                      "match_pct": 0.7852,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.7852,
+                  "branch_pct": 11.239139458654796,
+                  "match_count": 46249,
+                  "match_pct": 4.6249,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 7667,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 7667,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.7667,
+                      "branch_pct": 100.0,
+                      "match_count": 7667,
+                      "match_pct": 0.7667,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.7667,
+                  "branch_pct": 10.97433548516382,
+                  "match_count": 53543,
+                  "match_pct": 5.3543,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 2582,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2582,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.2582,
+                      "branch_pct": 100.0,
+                      "match_count": 2582,
+                      "match_pct": 0.2582,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.2582,
+                  "branch_pct": 3.6958046462362053,
+                  "match_count": 8141,
+                  "match_pct": 0.8141,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 2061,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 2061,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.20609999999999998,
+                      "branch_pct": 100.0,
+                      "match_count": 2061,
+                      "match_pct": 0.20609999999999998,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.20609999999999998,
+                  "branch_pct": 2.9500594019724318,
+                  "match_count": 6005,
+                  "match_pct": 0.6005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "spain",
+                  "count": 49701,
+                  "children": [],
+                  "opponents": {
+                    "spain": 25118,
+                    "france": 20659,
+                    "morocco": 1553,
+                    "belgium": 2371
+                  },
+                  "prob_pct": 4.9701,
+                  "branch_pct": 71.14066100797275,
+                  "match_count": 49701,
+                  "match_pct": 4.9701,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 25118,
+                      "pct_total": 2.5118,
+                      "pct_node": 50.53821854691053
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 20659,
+                      "pct_total": 2.0659,
+                      "pct_node": 41.56656807710106
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 2371,
+                      "pct_total": 0.23709999999999998,
+                      "pct_node": 4.770527755980765
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 1553,
+                      "pct_total": 0.1553,
+                      "pct_node": 3.124685620007646
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 6.986299999999999,
+              "branch_pct": 19.714371176377632,
+              "match_count": 271883,
+              "match_pct": 27.188299999999998,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|switzerland",
+              "name": "Vence a Switzerland",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "switzerland",
+              "count": 44075,
+              "children": [
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 4871,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 4871,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.48710000000000003,
+                      "branch_pct": 100.0,
+                      "match_count": 4871,
+                      "match_pct": 0.48710000000000003,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.48710000000000003,
+                  "branch_pct": 11.051616562677255,
+                  "match_count": 53543,
+                  "match_pct": 5.3543,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 4818,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 4818,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.4818,
+                      "branch_pct": 100.0,
+                      "match_count": 4818,
+                      "match_pct": 0.4818,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.4818,
+                  "branch_pct": 10.931366988088485,
+                  "match_count": 46249,
+                  "match_pct": 4.6249,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 1661,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1661,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1661,
+                      "branch_pct": 100.0,
+                      "match_count": 1661,
+                      "match_pct": 0.1661,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1661,
+                  "branch_pct": 3.768576290414067,
+                  "match_count": 8141,
+                  "match_pct": 0.8141,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 1345,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1345,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1345,
+                      "branch_pct": 100.0,
+                      "match_count": 1345,
+                      "match_pct": 0.1345,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1345,
+                  "branch_pct": 3.0516165626772547,
+                  "match_count": 6005,
+                  "match_pct": 0.6005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "france",
+                  "count": 31380,
+                  "children": [],
+                  "opponents": {
+                    "france": 12920,
+                    "spain": 15887,
+                    "belgium": 1527,
+                    "morocco": 1046
+                  },
+                  "prob_pct": 3.138,
+                  "branch_pct": 71.19682359614293,
+                  "match_count": 31380,
+                  "match_pct": 3.138,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 15887,
+                      "pct_total": 1.5886999999999998,
+                      "pct_node": 50.627788400254936
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 12920,
+                      "pct_total": 1.2919999999999998,
+                      "pct_node": 41.172721478648825
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 1527,
+                      "pct_total": 0.1527,
+                      "pct_node": 4.866156787762907
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 1046,
+                      "pct_total": 0.1046,
+                      "pct_node": 3.3333333333333335
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 4.407500000000001,
+              "branch_pct": 12.437354674131432,
+              "match_count": 82493,
+              "match_pct": 8.2493,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "switzerland",
+              "count": 240438,
+              "children": [],
+              "opponents": {
+                "switzerland": 38418,
+                "argentina": 202020
+              },
+              "prob_pct": 24.0438,
+              "branch_pct": 67.84827414949093,
+              "match_count": 240438,
+              "match_pct": 24.0438,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "argentina",
+                  "opponent_name": "Argentina",
+                  "count": 202020,
+                  "pct_total": 20.202,
+                  "pct_node": 84.0216604696429
+                },
+                {
+                  "opponent_id": "switzerland",
+                  "opponent_name": "Switzerland",
+                  "count": 38418,
+                  "pct_total": 3.8418,
+                  "pct_node": 15.9783395303571
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 35.4376,
+          "branch_pct": 35.4376,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "england",
+          "count": 645624,
+          "children": [],
+          "opponents": {
+            "england": 645624
+          },
+          "prob_pct": 64.5624,
+          "branch_pct": 64.5624,
+          "match_count": 645624,
+          "match_pct": 64.5624,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "england",
+              "opponent_name": "England",
+              "count": 645624,
+              "pct_total": 64.5624,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "england": {
+      "key": "england",
+      "team_id": "england",
+      "name": "England",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|norway",
+          "name": "Vence a Norway",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "norway",
+          "count": 645624,
+          "children": [
+            {
+              "key": "Semifinal|win|argentina",
+              "name": "Vence a Argentina",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "argentina",
+              "count": 191186,
+              "children": [
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 32501,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 32501,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 3.2501,
+                      "branch_pct": 100.0,
+                      "match_count": 32501,
+                      "match_pct": 3.2501,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 3.2501,
+                  "branch_pct": 16.999675708472378,
+                  "match_count": 137840,
+                  "match_pct": 13.783999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 31144,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 31144,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 3.1144000000000003,
+                      "branch_pct": 100.0,
+                      "match_count": 31144,
+                      "match_pct": 3.1144000000000003,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 3.1144000000000003,
+                  "branch_pct": 16.28989570366031,
+                  "match_count": 118356,
+                  "match_pct": 11.8356,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 9171,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 9171,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.9171,
+                      "branch_pct": 100.0,
+                      "match_count": 9171,
+                      "match_pct": 0.9171,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.9171,
+                  "branch_pct": 4.79689935455525,
+                  "match_count": 21355,
+                  "match_pct": 2.1355,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 7250,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 7250,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.7250000000000001,
+                      "branch_pct": 100.0,
+                      "match_count": 7250,
+                      "match_pct": 0.7250000000000001,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.7250000000000001,
+                  "branch_pct": 3.792118669777076,
+                  "match_count": 15553,
+                  "match_pct": 1.5553000000000001,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "france",
+                  "count": 111120,
+                  "children": [],
+                  "opponents": {
+                    "france": 45904,
+                    "belgium": 4813,
+                    "spain": 57493,
+                    "morocco": 2910
+                  },
+                  "prob_pct": 11.112,
+                  "branch_pct": 58.121410563534994,
+                  "match_count": 111120,
+                  "match_pct": 11.112,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 57493,
+                      "pct_total": 5.7493,
+                      "pct_node": 51.73956083513319
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 45904,
+                      "pct_total": 4.5904,
+                      "pct_node": 41.31029517638589
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 4813,
+                      "pct_total": 0.48129999999999995,
+                      "pct_node": 4.331353491720662
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 2910,
+                      "pct_total": 0.291,
+                      "pct_node": 2.6187904967602593
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 19.1186,
+              "branch_pct": 29.612591849125806,
+              "match_count": 494831,
+              "match_pct": 49.4831,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|switzerland",
+              "name": "Vence a Switzerland",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "switzerland",
+              "count": 101918,
+              "children": [
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 17154,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 17154,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.7153999999999998,
+                      "branch_pct": 100.0,
+                      "match_count": 17154,
+                      "match_pct": 1.7153999999999998,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.7153999999999998,
+                  "branch_pct": 16.83117800584784,
+                  "match_count": 137840,
+                  "match_pct": 13.783999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 16548,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 16548,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.6548,
+                      "branch_pct": 100.0,
+                      "match_count": 16548,
+                      "match_pct": 1.6548,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.6548,
+                  "branch_pct": 16.236582350517082,
+                  "match_count": 118356,
+                  "match_pct": 11.8356,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 4917,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 4917,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.4917,
+                      "branch_pct": 100.0,
+                      "match_count": 4917,
+                      "match_pct": 0.4917,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.4917,
+                  "branch_pct": 4.824466728154006,
+                  "match_count": 21355,
+                  "match_pct": 2.1355,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 3723,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 3723,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.3723,
+                      "branch_pct": 100.0,
+                      "match_count": 3723,
+                      "match_pct": 0.3723,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.3723,
+                  "branch_pct": 3.6529366745815266,
+                  "match_count": 15553,
+                  "match_pct": 1.5553000000000001,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "spain",
+                  "count": 59576,
+                  "children": [],
+                  "opponents": {
+                    "spain": 30692,
+                    "france": 24760,
+                    "morocco": 1670,
+                    "belgium": 2454
+                  },
+                  "prob_pct": 5.957599999999999,
+                  "branch_pct": 58.454836240899546,
+                  "match_count": 59576,
+                  "match_pct": 5.957599999999999,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 30692,
+                      "pct_total": 3.0692,
+                      "pct_node": 51.517389552840065
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 24760,
+                      "pct_total": 2.476,
+                      "pct_node": 41.56035987646032
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 2454,
+                      "pct_total": 0.2454,
+                      "pct_node": 4.11910836578488
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 1670,
+                      "pct_total": 0.167,
+                      "pct_node": 2.8031422049147308
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 10.191799999999999,
+              "branch_pct": 15.785968303532707,
+              "match_count": 150793,
+              "match_pct": 15.079300000000002,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "argentina",
+              "count": 352520,
+              "children": [],
+              "opponents": {
+                "argentina": 303645,
+                "switzerland": 48875
+              },
+              "prob_pct": 35.252,
+              "branch_pct": 54.60143984734148,
+              "match_count": 352520,
+              "match_pct": 35.252,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "argentina",
+                  "opponent_name": "Argentina",
+                  "count": 303645,
+                  "pct_total": 30.3645,
+                  "pct_node": 86.13553840916828
+                },
+                {
+                  "opponent_id": "switzerland",
+                  "opponent_name": "Switzerland",
+                  "count": 48875,
+                  "pct_total": 4.8875,
+                  "pct_node": 13.864461590831725
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 64.5624,
+          "branch_pct": 64.5624,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "norway",
+          "count": 354376,
+          "children": [],
+          "opponents": {
+            "norway": 354376
+          },
+          "prob_pct": 35.4376,
+          "branch_pct": 35.4376,
+          "match_count": 354376,
+          "match_pct": 35.4376,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "norway",
+              "opponent_name": "Norway",
+              "count": 354376,
+              "pct_total": 35.4376,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "argentina": {
+      "key": "argentina",
+      "team_id": "argentina",
+      "name": "Argentina",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|switzerland",
+          "name": "Vence a Switzerland",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "switzerland",
+          "count": 766714,
+          "children": [
+            {
+              "key": "Semifinal|win|england",
+              "name": "Vence a England",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "england",
+              "count": 303645,
+              "children": [
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 67097,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 67097,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 6.709700000000001,
+                      "branch_pct": 100.0,
+                      "match_count": 67097,
+                      "match_pct": 6.709700000000001,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 6.709700000000001,
+                  "branch_pct": 22.09718585848606,
+                  "match_count": 237928,
+                  "match_pct": 23.7928,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 63521,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 63521,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 6.352099999999999,
+                      "branch_pct": 100.0,
+                      "match_count": 63521,
+                      "match_pct": 6.352099999999999,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 6.352099999999999,
+                  "branch_pct": 20.919494804788485,
+                  "match_count": 204179,
+                  "match_pct": 20.4179,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 16778,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 16778,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.6778000000000002,
+                      "branch_pct": 100.0,
+                      "match_count": 16778,
+                      "match_pct": 1.6778000000000002,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.6778000000000002,
+                  "branch_pct": 5.5255314594345375,
+                  "match_count": 36841,
+                  "match_pct": 3.6841,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 12710,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 12710,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.2710000000000001,
+                      "branch_pct": 100.0,
+                      "match_count": 12710,
+                      "match_pct": 1.2710000000000001,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.2710000000000001,
+                  "branch_pct": 4.185809086268504,
+                  "match_count": 26717,
+                  "match_pct": 2.6717,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "france",
+                  "count": 143539,
+                  "children": [],
+                  "opponents": {
+                    "france": 58932,
+                    "spain": 75737,
+                    "belgium": 5459,
+                    "morocco": 3411
+                  },
+                  "prob_pct": 14.3539,
+                  "branch_pct": 47.27197879102241,
+                  "match_count": 143539,
+                  "match_pct": 14.3539,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 75737,
+                      "pct_total": 7.5737,
+                      "pct_node": 52.76405715519824
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 58932,
+                      "pct_total": 5.8932,
+                      "pct_node": 41.056437623224355
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 5459,
+                      "pct_total": 0.5459,
+                      "pct_node": 3.803147576616808
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 3411,
+                      "pct_total": 0.3411,
+                      "pct_node": 2.376357644960603
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 30.3645,
+              "branch_pct": 39.603424484227496,
+              "match_count": 494831,
+              "match_pct": 49.4831,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|norway",
+              "name": "Vence a Norway",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "norway",
+              "count": 202020,
+              "children": [
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 44855,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 44855,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 4.4855,
+                      "branch_pct": 100.0,
+                      "match_count": 44855,
+                      "match_pct": 4.4855,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 4.4855,
+                  "branch_pct": 22.203247203247205,
+                  "match_count": 237928,
+                  "match_pct": 23.7928,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 42511,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 42511,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 4.2511,
+                      "branch_pct": 100.0,
+                      "match_count": 42511,
+                      "match_pct": 4.2511,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 4.2511,
+                  "branch_pct": 21.042966042966043,
+                  "match_count": 204179,
+                  "match_pct": 20.4179,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 11030,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 11030,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 1.103,
+                      "branch_pct": 100.0,
+                      "match_count": 11030,
+                      "match_pct": 1.103,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 1.103,
+                  "branch_pct": 5.45985545985546,
+                  "match_count": 36841,
+                  "match_pct": 3.6841,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 8387,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 8387,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.8387,
+                      "branch_pct": 100.0,
+                      "match_count": 8387,
+                      "match_pct": 0.8387,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.8387,
+                  "branch_pct": 4.151569151569152,
+                  "match_count": 26717,
+                  "match_pct": 2.6717,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "spain",
+                  "count": 95237,
+                  "children": [],
+                  "opponents": {
+                    "spain": 50239,
+                    "france": 39215,
+                    "belgium": 3574,
+                    "morocco": 2209
+                  },
+                  "prob_pct": 9.5237,
+                  "branch_pct": 47.142362142362146,
+                  "match_count": 95237,
+                  "match_pct": 9.5237,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 50239,
+                      "pct_total": 5.0239,
+                      "pct_node": 52.7515566429014
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 39215,
+                      "pct_total": 3.9215,
+                      "pct_node": 41.17622352657055
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 3574,
+                      "pct_total": 0.3574,
+                      "pct_node": 3.7527431565463
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 2209,
+                      "pct_total": 0.2209,
+                      "pct_node": 2.3194766739817507
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 20.202,
+              "branch_pct": 26.348808030112924,
+              "match_count": 271883,
+              "match_pct": 27.188299999999998,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "england",
+              "count": 261049,
+              "children": [],
+              "opponents": {
+                "england": 191186,
+                "norway": 69863
+              },
+              "prob_pct": 26.104899999999997,
+              "branch_pct": 34.04776748565958,
+              "match_count": 261049,
+              "match_pct": 26.104899999999997,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "england",
+                  "opponent_name": "England",
+                  "count": 191186,
+                  "pct_total": 19.1186,
+                  "pct_node": 73.23759141004179
+                },
+                {
+                  "opponent_id": "norway",
+                  "opponent_name": "Norway",
+                  "count": 69863,
+                  "pct_total": 6.986299999999999,
+                  "pct_node": 26.76240858995821
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 76.6714,
+          "branch_pct": 76.6714,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "switzerland",
+          "count": 233286,
+          "children": [],
+          "opponents": {
+            "switzerland": 233286
+          },
+          "prob_pct": 23.328599999999998,
+          "branch_pct": 23.328599999999998,
+          "match_count": 233286,
+          "match_pct": 23.328599999999998,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "switzerland",
+              "opponent_name": "Switzerland",
+              "count": 233286,
+              "pct_total": 23.328599999999998,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    },
+    "switzerland": {
+      "key": "switzerland",
+      "team_id": "switzerland",
+      "name": "Switzerland",
+      "stage": "Cuartos",
+      "action": "root",
+      "opponent": "",
+      "count": 1000000,
+      "children": [
+        {
+          "key": "Cuartos|win|argentina",
+          "name": "Vence a Argentina",
+          "stage": "Cuartos",
+          "action": "win",
+          "opponent": "argentina",
+          "count": 233286,
+          "children": [
+            {
+              "key": "Semifinal|win|england",
+              "name": "Vence a England",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "england",
+              "count": 48875,
+              "children": [
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 4870,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 4870,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.48700000000000004,
+                      "branch_pct": 100.0,
+                      "match_count": 4870,
+                      "match_pct": 0.48700000000000004,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.48700000000000004,
+                  "branch_pct": 9.964194373401535,
+                  "match_count": 35296,
+                  "match_pct": 3.5296000000000003,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 4859,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 4859,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.48589999999999994,
+                      "branch_pct": 100.0,
+                      "match_count": 4859,
+                      "match_pct": 0.48589999999999994,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.48589999999999994,
+                  "branch_pct": 9.941687979539642,
+                  "match_count": 41071,
+                  "match_pct": 4.1071,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 1683,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1683,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1683,
+                      "branch_pct": 100.0,
+                      "match_count": 1683,
+                      "match_pct": 0.1683,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1683,
+                  "branch_pct": 3.4434782608695653,
+                  "match_count": 6349,
+                  "match_pct": 0.6348999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 1328,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1328,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1328,
+                      "branch_pct": 100.0,
+                      "match_count": 1328,
+                      "match_pct": 0.1328,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1328,
+                  "branch_pct": 2.717135549872123,
+                  "match_count": 4577,
+                  "match_pct": 0.45770000000000005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "france",
+                  "count": 36135,
+                  "children": [],
+                  "opponents": {
+                    "france": 14887,
+                    "spain": 18112,
+                    "morocco": 1231,
+                    "belgium": 1905
+                  },
+                  "prob_pct": 3.6135,
+                  "branch_pct": 73.93350383631714,
+                  "match_count": 36135,
+                  "match_pct": 3.6135,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 18112,
+                      "pct_total": 1.8112,
+                      "pct_node": 50.12314930123149
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 14887,
+                      "pct_total": 1.4887,
+                      "pct_node": 41.198284211982845
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 1905,
+                      "pct_total": 0.1905,
+                      "pct_node": 5.271897052718971
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 1231,
+                      "pct_total": 0.12310000000000001,
+                      "pct_node": 3.406669434066694
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 4.8875,
+              "branch_pct": 20.950678566223434,
+              "match_count": 150793,
+              "match_pct": 15.079300000000002,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|win|norway",
+              "name": "Vence a Norway",
+              "stage": "Semifinal",
+              "action": "win",
+              "opponent": "norway",
+              "count": 38418,
+              "children": [
+                {
+                  "key": "Final|win|france",
+                  "name": "Vence a France",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "france",
+                  "count": 3836,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 3836,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.3836,
+                      "branch_pct": 100.0,
+                      "match_count": 3836,
+                      "match_pct": 0.3836,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.3836,
+                  "branch_pct": 9.984902910094226,
+                  "match_count": 35296,
+                  "match_pct": 3.5296000000000003,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|spain",
+                  "name": "Vence a Spain",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "spain",
+                  "count": 3795,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 3795,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.3795,
+                      "branch_pct": 100.0,
+                      "match_count": 3795,
+                      "match_pct": 0.3795,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.3795,
+                  "branch_pct": 9.878182102139622,
+                  "match_count": 41071,
+                  "match_pct": 4.1071,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|belgium",
+                  "name": "Vence a Belgium",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "belgium",
+                  "count": 1345,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1345,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.1345,
+                      "branch_pct": 100.0,
+                      "match_count": 1345,
+                      "match_pct": 0.1345,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.1345,
+                  "branch_pct": 3.500963090218127,
+                  "match_count": 6349,
+                  "match_pct": 0.6348999999999999,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|win|morocco",
+                  "name": "Vence a Morocco",
+                  "stage": "Final",
+                  "action": "win",
+                  "opponent": "morocco",
+                  "count": 1107,
+                  "children": [
+                    {
+                      "key": "Campeón|champion",
+                      "name": "Campeón",
+                      "stage": "Campeón",
+                      "action": "champion",
+                      "opponent": "",
+                      "count": 1107,
+                      "children": [],
+                      "opponents": {},
+                      "prob_pct": 0.11069999999999999,
+                      "branch_pct": 100.0,
+                      "match_count": 1107,
+                      "match_pct": 0.11069999999999999,
+                      "match_label": "Escenario",
+                      "opponent_breakdown": []
+                    }
+                  ],
+                  "opponents": {},
+                  "prob_pct": 0.11069999999999999,
+                  "branch_pct": 2.8814618147743243,
+                  "match_count": 4577,
+                  "match_pct": 0.45770000000000005,
+                  "match_label": "Match",
+                  "opponent_breakdown": []
+                },
+                {
+                  "key": "Final|lose",
+                  "name": "Pierde",
+                  "stage": "Final",
+                  "action": "lose",
+                  "opponent": "france",
+                  "count": 28335,
+                  "children": [],
+                  "opponents": {
+                    "france": 11703,
+                    "spain": 14305,
+                    "morocco": 911,
+                    "belgium": 1416
+                  },
+                  "prob_pct": 2.8335,
+                  "branch_pct": 73.7544900827737,
+                  "match_count": 28335,
+                  "match_pct": 2.8335,
+                  "match_label": "Escenario",
+                  "opponent_breakdown": [
+                    {
+                      "opponent_id": "spain",
+                      "opponent_name": "Spain",
+                      "count": 14305,
+                      "pct_total": 1.4305,
+                      "pct_node": 50.48526557261338
+                    },
+                    {
+                      "opponent_id": "france",
+                      "opponent_name": "France",
+                      "count": 11703,
+                      "pct_total": 1.1703,
+                      "pct_node": 41.30227633668608
+                    },
+                    {
+                      "opponent_id": "belgium",
+                      "opponent_name": "Belgium",
+                      "count": 1416,
+                      "pct_total": 0.1416,
+                      "pct_node": 4.997353096876654
+                    },
+                    {
+                      "opponent_id": "morocco",
+                      "opponent_name": "Morocco",
+                      "count": 911,
+                      "pct_total": 0.0911,
+                      "pct_node": 3.2151049938238927
+                    }
+                  ]
+                }
+              ],
+              "opponents": {},
+              "prob_pct": 3.8418,
+              "branch_pct": 16.46819783441784,
+              "match_count": 82493,
+              "match_pct": 8.2493,
+              "match_label": "Match",
+              "opponent_breakdown": []
+            },
+            {
+              "key": "Semifinal|lose",
+              "name": "Pierde",
+              "stage": "Semifinal",
+              "action": "lose",
+              "opponent": "england",
+              "count": 145993,
+              "children": [],
+              "opponents": {
+                "england": 101918,
+                "norway": 44075
+              },
+              "prob_pct": 14.599300000000001,
+              "branch_pct": 62.581123599358726,
+              "match_count": 145993,
+              "match_pct": 14.599300000000001,
+              "match_label": "Escenario",
+              "opponent_breakdown": [
+                {
+                  "opponent_id": "england",
+                  "opponent_name": "England",
+                  "count": 101918,
+                  "pct_total": 10.191799999999999,
+                  "pct_node": 69.81019637927845
+                },
+                {
+                  "opponent_id": "norway",
+                  "opponent_name": "Norway",
+                  "count": 44075,
+                  "pct_total": 4.407500000000001,
+                  "pct_node": 30.189803620721538
+                }
+              ]
+            }
+          ],
+          "opponents": {},
+          "prob_pct": 23.328599999999998,
+          "branch_pct": 23.328599999999998,
+          "match_count": 1000000,
+          "match_pct": 100.0,
+          "match_label": "Match",
+          "opponent_breakdown": []
+        },
+        {
+          "key": "Cuartos|lose",
+          "name": "Pierde",
+          "stage": "Cuartos",
+          "action": "lose",
+          "opponent": "argentina",
+          "count": 766714,
+          "children": [],
+          "opponents": {
+            "argentina": 766714
+          },
+          "prob_pct": 76.6714,
+          "branch_pct": 76.6714,
+          "match_count": 766714,
+          "match_pct": 76.6714,
+          "match_label": "Escenario",
+          "opponent_breakdown": [
+            {
+              "opponent_id": "argentina",
+              "opponent_name": "Argentina",
+              "count": 766714,
+              "pct_total": 76.6714,
+              "pct_node": 100.0
+            }
+          ]
+        }
+      ],
+      "opponents": {},
+      "prob_pct": 100.0,
+      "branch_pct": 100.0,
+      "match_count": 1000000,
+      "match_pct": 100.0,
+      "match_label": "Total",
+      "opponent_breakdown": []
+    }
+  },
+  "team_options": [
+    {
+      "team_id": "france",
+      "team_name": "France",
+      "fifa_code": "FRA",
+      "flag_src": "assets/flags/FRA.png"
+    },
+    {
+      "team_id": "morocco",
+      "team_name": "Morocco",
+      "fifa_code": "MAR",
+      "flag_src": "assets/flags/MAR.png"
+    },
+    {
+      "team_id": "spain",
+      "team_name": "Spain",
+      "fifa_code": "ESP",
+      "flag_src": "assets/flags/ESP.png"
+    },
+    {
+      "team_id": "belgium",
+      "team_name": "Belgium",
+      "fifa_code": "BEL",
+      "flag_src": "assets/flags/BEL.png"
+    },
+    {
+      "team_id": "norway",
+      "team_name": "Norway",
+      "fifa_code": "NOR",
+      "flag_src": "assets/flags/NOR.png"
+    },
+    {
+      "team_id": "england",
+      "team_name": "England",
+      "fifa_code": "ENG",
+      "flag_src": "assets/flags/ENG.png"
+    },
+    {
+      "team_id": "argentina",
+      "team_name": "Argentina",
+      "fifa_code": "ARG",
+      "flag_src": "assets/flags/ARG.png"
+    },
+    {
+      "team_id": "switzerland",
+      "team_name": "Switzerland",
+      "fifa_code": "SUI",
+      "flag_src": "assets/flags/SUI.png"
+    }
+  ]
+}

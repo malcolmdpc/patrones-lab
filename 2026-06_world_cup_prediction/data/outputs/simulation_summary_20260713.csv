@@ -1,0 +1,5 @@
+team_id,team_name,fifa_code,elo_rating,prob_final,prob_champion
+argentina,Argentina,ARG,2177,0.612887,0.305997
+spain,Spain,ESP,2190,0.538912,0.302654
+france,France,FRA,2163,0.461088,0.242095
+england,England,ENG,2097,0.387113,0.149254
