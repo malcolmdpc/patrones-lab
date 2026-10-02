@@ -1,4 +1,4 @@
-# Fútbol · StatsBomb
+# Analítica de Fútbol · StatsBomb Open Data
 
 **Analítica deportiva con datos públicos de StatsBomb: xG, Peligro Esperado y radares de percentiles.**
 
@@ -169,21 +169,20 @@ El resultado permite leer perfiles distintos aun dentro de una misma selección:
 
 ---
 
-## Flujo de notebooks
+## Flujo de trabajo
 
-La carpeta contiene distintas etapas de desarrollo y versiones históricas. El flujo principal queda organizado de esta manera:
+La carpeta reúne tres líneas de análisis construidas sobre datos de eventos de StatsBomb:
 
-| Orden | Notebook | Objetivo |
-|---|---|---|
-| 01 | `01_xT_peligro_esperado_v3.ipynb` | Cálculo de PE5, valor zonal y acciones valoradas |
-| 02 | `02_xT_peligro_esperado_graficos_v3.ipynb` | Visualizaciones y aplicación a Argentina vs Francia |
-| 03 | `03_radar_valoracion_jugador_v3.ipynb` | Radares de percentiles por posición |
-| 04.1 | `04.1_xG_goles_esperados_extract.ipynb` | Extracción y preparación de partidos y tiros |
-| 04.2 | `04.2_xG_goles_esperados_modelo.ipynb` | Feature engineering, entrenamiento y selección del modelo xG |
-| 04.3 | `04.3_xG_goles_esperados_validation.ipynb` | Validación probabilística y de clasificación |
-| 05 | `05_xG_graficos_v1.ipynb` | Aplicación y visualizaciones del modelo xG |
+1. **Peligro Esperado (PE5)**  
+   Construcción de una métrica zonal para medir cómo cambia el peligro de una posesión antes del gol y aplicación a partidos del Mundial.
 
-> En el material de desarrollo también existen versiones intermedias y una carpeta `old/`. Se conservan como historial de trabajo, pero no forman parte del flujo principal documentado arriba.
+2. **Radares de percentiles**  
+   Preparación de métricas por posición, normalización por 90 minutos y comparación de jugadores del Mundial Qatar 2022.
+
+3. **Goles Esperados (xG)**  
+   Extracción y preparación de tiros, construcción de variables, entrenamiento del modelo, validación y aplicación sobre partidos del Mundial Qatar 2022.
+
+El flujo general pasa de la preparación de eventos y variables al modelado, la validación y la construcción de visualizaciones para comunicar los resultados.
 
 ---
 
@@ -199,10 +198,6 @@ La carpeta `visuals/` reúne salidas utilizadas en las publicaciones de Patrones
 - evolución acumulada de PE5;
 - radares de percentiles de jugadores de Qatar 2022.
 
-<p align="center">
-  <img width="48%" src="./visuals/02_zonas_probabilidad_peligro_esperado.png" alt="Mapa de Peligro Esperado PE5 por zona">
-  <img width="48%" src="./visuals/radar_percentiles_lionel_messi.png" alt="Radar de percentiles de Lionel Messi en Qatar 2022">
-</p>
 
 ---
 
