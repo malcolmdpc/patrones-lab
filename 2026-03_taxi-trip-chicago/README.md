@@ -1,10 +1,68 @@
-[<img width="5400" height="1350" alt="Taxi Trips Chicago - Patrones Lab" src="https://github.com/user-attachments/assets/4be93748-a7d9-46b8-977e-a669ba83dcf4" />](https://malcolmdpc.github.io)
-
-
-
 # Taxi Trips Chicago con datos abiertos (ENE 2024 - MAR 2026)
 
 > Proyecto desarrollado dentro de **@PatronesLab** — análisis de datos abiertos con foco en entender patrones reales y comunicarlos de forma clara.
+
+
+<p align="center">
+  <a href="https://malcolmdpc.github.io/proyectos/analisis-viajes-taxi-chicago.html">
+    <img src="https://img.shields.io/badge/Web-Taxi%20Trips%20Chicago-FF9F1C?style=for-the-badge" alt="Web · Taxi Trips Chicago">
+  </a>
+  <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-03_taxi-trip-chicago">
+    <img src="https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub">
+  </a>
+  <a href="https://data.cityofchicago.org/Transportation/Taxi-Trips-2024-/ajtu-isnz">
+    <img src="https://img.shields.io/badge/Datos-City%20of%20Chicago-334155?style=for-the-badge" alt="Datos · City of Chicago">
+  </a>
+</p>
+
+---
+
+## Proyectos publicados
+
+A partir de esta misma línea de trabajo sobre viajes reportados de taxi en Chicago se desarrollaron tres proyectos publicados en **Patrones Lab**.
+
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-viajes-taxi-chicago.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p03-taxi-chicago-cover.webp" alt="Análisis de Viajes en Taxi en Chicago">
+      </a>
+      <br><br>
+      <strong>03 · Análisis de Viajes en Taxi en Chicago</strong><br><br>
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado"><br>
+      <img src="https://img.shields.io/badge/Datos-2026-E9D5FF?style=flat-square" alt="Datos: 2026"><br><br>
+      Análisis de viajes reportados de taxi en Chicago para estudiar duración, demanda, distribución geoespacial y patrones operativos.<br><br>
+      <kbd>Python</kbd> <kbd>Data Analysis</kbd> <kbd>Taxi</kbd> <kbd>BI</kbd><br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-viajes-taxi-chicago.html">Ver proyecto</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/dashboard-looker-taxi-trips-chicago.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p05-looker-taxi-chicago-cover.webp" alt="Dashboard Looker · Taxi Trips Chicago">
+      </a>
+      <br><br>
+      <strong>05 · Dashboard Looker · Taxi Trips Chicago</strong><br><br>
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado"><br>
+      <img src="https://img.shields.io/badge/Datos-2026-E9D5FF?style=flat-square" alt="Datos: 2026"><br><br>
+      Dashboard interactivo en Looker Studio para explorar indicadores operativos, patrones horarios y recorridos pickup-dropoff.<br><br>
+      <kbd>Looker Studio</kbd> <kbd>Dashboard</kbd> <kbd>Taxi</kbd> <kbd>BI</kbd><br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/dashboard-looker-taxi-trips-chicago.html">Ver proyecto</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-geoespacial-viajes-taxi.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p12-taxi-geoespacial-cover.webp" alt="Análisis Geoespacial de los Viajes en Taxi">
+      </a>
+      <br><br>
+      <strong>12 · Análisis Geoespacial de los Viajes en Taxi</strong><br><br>
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado"><br>
+      <img src="https://img.shields.io/badge/Datos-2026-E9D5FF?style=flat-square" alt="Datos: 2026"><br><br>
+      Análisis geoespacial orientado a detectar zonas de mayor actividad, recorridos urbanos y concentración territorial de la demanda.<br><br>
+      <kbd>Python</kbd> <kbd>GeoPandas</kbd> <kbd>Geoespacial</kbd> <kbd>Taxi</kbd><br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-geoespacial-viajes-taxi.html">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Características del Proyecto
 
@@ -139,3 +197,16 @@ Las visualizaciones se han construido principalmente con **Matplotlib**, **Plotl
 ### Instalación rápida
 ```bash
 pip install pandas numpy matplotlib plotly geopandas shapely pyarrow openpyxl contextily
+```
+
+---
+
+<p align="center">
+  <strong>Patrones Lab</strong> · Generando conocimiento a partir de los datos
+  <br>
+  <a href="https://malcolmdpc.github.io/">Web</a>
+  ·
+  <a href="https://github.com/malcolmdpc/patrones-lab">Repositorio</a>
+  ·
+  <a href="https://www.linkedin.com/in/malcolmdpc/">LinkedIn</a>
+</p>
