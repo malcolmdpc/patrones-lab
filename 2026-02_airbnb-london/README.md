@@ -1,12 +1,72 @@
-[<img width="5400" height="1350" alt="Diseño sin título (2)" src="https://github.com/user-attachments/assets/816d8241-36ae-4241-bbeb-223bfd8fa741" />](https://malcolmdpc.github.io)
-
 # Airbnb en Londres con datos abiertos de Inside Airbnb (2025-SEPT)
 
 > Proyecto desarrollado dentro de **@PatronesLab** — análisis de datos abiertos con foco en entender patrones reales y comunicarlos de forma clara.
 
+
+<p align="center">
+  <a href="https://malcolmdpc.github.io/proyectos/analisis-alojamiento-airbnb-londres.html">
+    <img src="https://img.shields.io/badge/Web-Airbnb%20Londres-FF9F1C?style=for-the-badge" alt="Web · Airbnb Londres">
+  </a>
+  <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-02_airbnb-london">
+    <img src="https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub">
+  </a>
+  <a href="https://insideairbnb.com/get-the-data/">
+    <img src="https://img.shields.io/badge/Datos-Inside%20Airbnb-334155?style=for-the-badge" alt="Datos · Inside Airbnb">
+  </a>
+</p>
+
+---
+
+## Proyectos publicados
+
+A partir de esta misma línea de trabajo sobre alojamientos Airbnb en Londres se desarrollaron tres proyectos publicados en **Patrones Lab**.
+
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-alojamiento-airbnb-londres.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p02-airbnb-londres-cover.webp" alt="Análisis del Alojamiento Airbnb en Londres">
+      </a>
+      <br><br>
+      <strong>02 · Análisis del Alojamiento Airbnb en Londres</strong><br><br>
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado"><br>
+      <img src="https://img.shields.io/badge/Datos-2025-E9D5FF?style=flat-square" alt="Datos: 2025"><br><br>
+      Análisis exploratorio de Airbnb en Londres para comparar precios, tipos de alojamiento, disponibilidad, estancias mínimas y diferencias entre barrios.<br><br>
+      <kbd>Python</kbd> <kbd>Data Analysis</kbd> <kbd>Airbnb</kbd> <kbd>BI</kbd><br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-alojamiento-airbnb-londres.html">Ver proyecto</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/modelo-ml-airbnb-london.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p04-ml-airbnb-london-cover.webp" alt="Modelo Machine Learning · Airbnb London">
+      </a>
+      <br><br>
+      <strong>04 · Modelo Machine Learning · Airbnb London</strong><br><br>
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado"><br>
+      <img src="https://img.shields.io/badge/Datos-2025-E9D5FF?style=flat-square" alt="Datos: 2025"><br><br>
+      Modelo de clasificación con regresión logística para identificar anuncios relativamente caros o baratos dentro de cada tipo de alojamiento.<br><br>
+      <kbd>Python</kbd> <kbd>Machine Learning</kbd> <kbd>Regresión logística</kbd> <kbd>Airbnb</kbd><br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/modelo-ml-airbnb-london.html">Ver proyecto</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-geoespacial-airbnb-londres.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p17-airbnb-geoespacial-cover.webp" alt="Análisis Geoespacial de Airbnb en Londres">
+      </a>
+      <br><br>
+      <strong>17 · Análisis Geoespacial de Airbnb en Londres</strong><br><br>
+      <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado"><br>
+      <img src="https://img.shields.io/badge/Datos-2025-E9D5FF?style=flat-square" alt="Datos: 2025"><br><br>
+      Análisis geoespacial de precios Airbnb en Londres mediante distancia al centro, barrios y métricas de vecindad geográfica.<br><br>
+      <kbd>Python</kbd> <kbd>GeoPandas</kbd> <kbd>KNN</kbd> <kbd>Geoespacial</kbd><br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/analisis-geoespacial-airbnb-londres.html">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Qué es este proyecto
 
-Este repositorio reúne un caso de estudio **reproducible** a partir de datos abiertos de **Inside Airbnb** para analizar la oferta de alojamientos en **Londres** a partir del snapshot de **listings** del **14 de septiembre de 2025**.
+Este repositorio reúne un caso de estudio a partir de datos abiertos de **Inside Airbnb** para analizar la oferta de alojamientos en **Londres** a partir del snapshot de **listings** del **14 de septiembre de 2025**.
 
 La intención es doble:
 - **Entender** cómo se distribuyen los precios según tipo de alojamiento, barrio, estancia mínima, disponibilidad y contexto espacial.
@@ -145,9 +205,21 @@ pip install pandas numpy plotly matplotlib openpyxl pyarrow scikit-learn shapely
 ## Créditos y licencia
 
 **Fuente de datos:** Inside Airbnb – London listings (datos abiertos).  
-Este proyecto utiliza datos abiertos de oferta publicados por Inside Airbnb y los transforma en una base analítica reproducible para fines de exploración, visualización y modelado.
+Este proyecto utiliza datos abiertos de oferta publicados por Inside Airbnb y los transforma en una base analítica para fines de exploración, visualización y modelado.
 
 **Autoría del análisis:** Malcolm Di Pietro Cagliari (@PatronesLab).  
 Los gráficos, el código y las conclusiones son elaboración propia a partir de datos abiertos.
 
 **Licencia del repositorio:** el código y contenidos de este repositorio se publican bajo la licencia indicada en el archivo `LICENSE` del proyecto.
+
+---
+
+<p align="center">
+  <strong>Patrones Lab</strong> · Generando conocimiento a partir de los datos
+  <br>
+  <a href="https://malcolmdpc.github.io/">Web</a>
+  ·
+  <a href="https://github.com/malcolmdpc/patrones-lab">Repositorio</a>
+  ·
+  <a href="https://www.linkedin.com/in/malcolmdpc/">LinkedIn</a>
+</p>
