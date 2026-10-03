@@ -1,9 +1,32 @@
-[<img width="5400" height="1350" alt="banner para README de GitHub" src="https://github.com/user-attachments/assets/1560e595-2864-4380-a85e-a461e4f4c807" />](https://malcolmdpc.github.io)
-
-
 # Tráfico aéreo en Baleares con datos abiertos de AENA (2024–2025)
 
 > Proyecto desarrollado dentro de **@PatronesLab** — análisis de datos abiertos con foco en entender patrones reales y comunicarlos de forma clara.
+
+
+<p align="center">
+  <a href="https://malcolmdpc.github.io/proyectos/analisis-vuelos-islas-baleares.html">
+    <img src="https://img.shields.io/badge/Web-Ver%20proyecto-FF9F1C?style=for-the-badge" alt="Ver proyecto en Patrones Lab">
+  </a>
+  <a href="https://github.com/malcolmdpc/patrones-lab/tree/main/2026-01_trafico-aereo-aena">
+    <img src="https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub">
+  </a>
+  <a href="https://www.aena.es/es/estadisticas/inicio.html">
+    <img src="https://img.shields.io/badge/Datos-AENA-334155?style=for-the-badge" alt="Datos · AENA">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-%E2%9C%85%20publicado-CFF7D3?style=flat-square" alt="Estado: publicado">
+  <img src="https://img.shields.io/badge/Datos-2024--2025-E9D5FF?style=flat-square" alt="Datos: 2024–2025">
+</p>
+
+<p align="center">
+  <a href="https://malcolmdpc.github.io/proyectos/analisis-vuelos-islas-baleares.html">
+    <img width="36%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p01-vuelos-baleares-cover.webp" alt="Análisis de Vuelos en las Islas Baleares">
+  </a>
+</p>
+
+---
 
 ## Qué es este proyecto
 
@@ -110,3 +133,14 @@ Los gráficos, el código y las conclusiones son elaboración propia a partir de
 
 **Licencia del repositorio:** el código y contenidos de este repositorio se publican bajo la licencia indicada en el archivo `LICENSE` del proyecto (si aún no existe, se recomienda añadir una licencia simple como MIT para el código).
 
+---
+
+<p align="center">
+  <strong>Patrones Lab</strong> · Generando conocimiento a partir de los datos
+  <br>
+  <a href="https://malcolmdpc.github.io/">Web</a>
+  ·
+  <a href="https://github.com/malcolmdpc/patrones-lab">Repositorio</a>
+  ·
+  <a href="https://www.linkedin.com/in/malcolmdpc/">LinkedIn</a>
+</p>
