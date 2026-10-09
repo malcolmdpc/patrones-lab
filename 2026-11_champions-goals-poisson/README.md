@@ -228,13 +228,33 @@ El proyecto utiliza información pública proveniente de distintas fuentes:
 
 ---
 
+
 ## Proyectos relacionados
 
-- **Proyecto 18 · [Simulación de Montecarlo · LaLiga 2026/27](https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-laliga-2026-27.html)**  
-  Simulación de un millón de escenarios con ratings Elo para estimar probabilidades de campeón, Top 4, descenso, posiciones y puntos.
-
-- **Proyecto 20 · [Simulación de Montecarlo · Nations League 2026/27](https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-nations-league-2026-27.html)**  
-  Ratings Elo, modelo Davidson, Poisson y simulación de Montecarlo para estimar probabilidades de clasificación y título en la Liga A.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-laliga-2026-27.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p18-laliga-2026-27-montecarlo-cover.webp" alt="Simulación de Montecarlo · Predicciones para LaLiga 2026/27">
+      </a>
+      <br><br>
+      <strong>PROYECTO 18 · ANALÍTICA DEPORTIVA</strong><br>
+      <strong>Simulación de Montecarlo · Predicciones para LaLiga 2026/27</strong><br><br>
+      Simulación de un millón de escenarios con ratings Elo para estimar probabilidades de campeón, Top 4, descenso, posiciones y puntos.<br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-laliga-2026-27.html">Ver proyecto</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-mundial-2026.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p15-montecarlo-mundial-2026-cover.webp" alt="Simulación de Montecarlo · Predicciones para el Mundial 2026">
+      </a>
+      <br><br>
+      <strong>PROYECTO 15 · ANALÍTICA DEPORTIVA</strong><br>
+      <strong>Simulación de Montecarlo · Predicciones para el Mundial 2026</strong><br><br>
+      Modelo probabilístico con ratings Elo y simulación Montecarlo para estimar probabilidades de avance y campeonato en el Mundial 2026.<br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-mundial-2026.html">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
