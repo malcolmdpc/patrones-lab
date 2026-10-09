@@ -189,6 +189,34 @@ El proyecto utiliza información proveniente de distintas fuentes públicas:
   <img src="https://img.shields.io/badge/Montecarlo-334155?style=for-the-badge" alt="Simulación Montecarlo">
 </p>
 
+---
+
+## Proyectos relacionados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/predicciones-champions-league-2026-27.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p19-champions-league-2026-27-poisson-cover.webp" alt="Carátula de la home del Proyecto 19 · Predicciones Champions League 2026/27">
+      </a>
+      <br><br>
+      <strong>ANALÍTICA DEPORTIVA · PROYECTO 19</strong><br>
+      <strong>Predicciones Champions League 2026/27</strong><br><br>
+      Modelo de goles Poisson y simulación Montecarlo para estimar probabilidades de partido y clasificación en la fase liga de la Champions League 2026/27.<br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/predicciones-champions-league-2026-27.html">Ver proyecto →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-nations-league-2026-27.html">
+        <img width="100%" src="https://malcolmdpc.github.io/images/patrones/projects/home-covers/p20-nations-league-2026-27-montecarlo-cover.webp" alt="Carátula de la home del Proyecto 20 · Nations League 2026/27">
+      </a>
+      <br><br>
+      <strong>ANALÍTICA DEPORTIVA · PROYECTO 20</strong><br>
+      <strong>Simulación y Poisson · Predicciones Nations League 2026/27</strong><br><br>
+      Ratings Elo, modelos Davidson y Poisson y simulación Montecarlo para estimar probabilidades de clasificación y título de las selecciones de la Liga A.<br><br>
+      <a href="https://malcolmdpc.github.io/proyectos/simulacion-montecarlo-nations-league-2026-27.html">Ver proyecto →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
